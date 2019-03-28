@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="4dp"
+
+    android:layout_gravity="center_horizontal"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:background="@drawable/testborderheader"
+        android:layout_height="20dp"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/testborder"
+
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Internship Type:"
+                android:layout_marginTop="1dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_weight="50"
+                android:gravity="center_vertical"
+                android:layout_height="wrap_content">
+                <RadioGroup
+                    android:id="@+id/radio_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_above="@+id/view_below" >
+
+                    <RadioButton
+                        android:id="@+id/radio1"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:text="Work From Home" />
+
+                    <RadioButton
+                        android:id="@+id/radio2"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:text="Fully Employed" />
+
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Profile:"
+                android:layout_marginTop="2dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <AutoCompleteTextView
+                    android:id="@+id/profile"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="Ex: Android Application Developer"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" >
+
+                </AutoCompleteTextView>
+            </android.support.design.widget.TextInputLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Organisation:"
+                android:layout_marginTop="2dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <AutoCompleteTextView
+                    android:id="@+id/organisation"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="Ex: InstaMojo"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" >
+
+                </AutoCompleteTextView>
+            </android.support.design.widget.TextInputLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Location:"
+                android:layout_marginTop="2dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <AutoCompleteTextView
+                    android:id="@+id/location"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="Ex: Mumbai,Delhi"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" >
+
+                </AutoCompleteTextView>
+            </android.support.design.widget.TextInputLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="70dp"
+                    android:layout_weight="50"
+                    android:gravity="center_vertical">
+
+                    <LinearLayout
+                        android:id="@+id/radio_group1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/view_below"
+                        android:layout_marginBottom="2dp"
+
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="1dp"
+                                android:gravity="bottom"
+                                android:text="Start Date:"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/sdate"
+                                android:layout_marginTop="2dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:background="@android:drawable/btn_dropdown"
+                               />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="1dp"
+                                android:gravity="bottom"
+                                android:text="End Date:"
+                                android:textColor="#000000" />
+
+                            <TextView
+                                android:id="@+id/edate"
+                                android:layout_width="match_parent"
+                                android:layout_height="40dp"
+                                android:background="@android:drawable/btn_dropdown"
+
+                                android:layout_marginTop="2dp"
+
+                                />
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <CheckBox
+                android:id="@+id/checkBox"
+                android:layout_marginTop="7dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Currently working here" />
+            <TextView
+                android:id="@+id/add"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Desciption:"
+                android:layout_marginTop="0dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+
+                />
+
+
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <EditText
+                    android:id="@+id/description"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="Description of work done (Max. 250 char)"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" />
+            </android.support.design.widget.TextInputLayout>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

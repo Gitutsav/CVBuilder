@@ -1,0 +1,2311 @@
+<resources>
+    <string name="app_name">CV Builder</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_permission_help">Help</string>
+    <string name="string_permission_help_text">The permission is missing.\n\nTo grant this permission click on Settings, then Permissions and turn the permission on.\n\nThen click back twice to return to the app</string>
+    <string name="string_permission_quit">Exit App</string>
+    <string name="string_settings">Settings</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="default_coin_text">Coins: 0</string>
+    <string name="watch"><u>Watch</u></string>
+
+    <string-array name="india_top_places">
+        <item>Agartala</item>
+        <item>Agra</item>
+        <item>Agumbe</item>
+        <item>Ahmedabad</item>
+        <item>Aizawl</item>
+        <item>Ajmer</item>
+        <item>Alappuzha Beach</item>
+        <item>Allahabad</item>
+        <item>Alleppey</item>
+        <item>Almora</item>
+        <item>Amarnath</item>
+        <item>Amritsar</item>
+        <item>Anantagir</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Araku valley</item>
+        <item>Aurangabad</item>
+        <item>Ayodhya</item>
+        <item>Badrinath</item>
+        <item>Bangalore</item>
+        <item>Baroda</item>
+        <item>Bastar</item>
+        <item>Bhagalpur</item>
+        <item>Bhilai</item>
+        <item>Bhimtal</item>
+        <item>Bhopal</item>
+        <item>Bhubaneswar</item>
+        <item>Bhuj</item>
+        <item>Bidar</item>
+        <item>Bilaspur</item>
+        <item>Bodh Gaya</item>
+        <item>Calicut</item>
+        <item>Chail</item>
+        <item>Chamba</item>
+        <item>Chandigarh</item>
+        <item>Chennai</item>
+        <item>Chennai Beaches</item>
+        <item>Cherai</item>
+        <item>Cherrapunji</item>
+        <item>Chidambaram</item>
+        <item>Chikhaldara Hills</item>
+        <item>Chopta</item>
+        <item>Coimbatore</item>
+        <item>Coonoor</item>
+        <item>Coorg</item>
+        <item>Corbett National Park</item>
+        <item>Cotigao Wild Life Sanctuary</item>
+        <item>Cuttack</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Dalhousie</item>
+        <item>Daman and Diu</item>
+        <item>Darjeeling</item>
+        <item>Dehradun</item>
+        <item>Delhi</item>
+        <item>Devikulam</item>
+        <item>Dhanaulti</item>
+        <item>Dharamashala</item>
+        <item>Dindigul</item>
+        <item>Dudhwa National Park</item>
+        <item>Dwaraka</item>
+        <item>Faridabad</item>
+        <item>Gandhinagar</item>
+        <item>Gangotri</item>
+        <item>Gangtok</item>
+        <item>Gir Wildlife Sanctuary</item>
+        <item>Goa</item>
+        <item>Great Himalayan National Park</item>
+        <item>Gulmarg</item>
+        <item>Gurgaon</item>
+        <item>Guruvayoor</item>
+        <item>Guwahati</item>
+        <item>Gwalior</item>
+        <item>Hampi</item>
+        <item>Haridwar</item>
+        <item>Hogenakkal</item>
+        <item>Horsley Hills</item>
+        <item>Hyderabad</item>
+        <item>Idukki</item>
+        <item>Imphal</item>
+        <item>Indore</item>
+        <item>Itangar</item>
+        <item>Jabalpur</item>
+        <item>Jaipur</item>
+        <item>Jaisalmer</item>
+        <item>Jalandhar</item>
+        <item>Jammu</item>
+        <item>Jamshedpur</item>
+        <item>Jodhpur</item>
+        <item>Kanchipuram</item>
+        <item>Kanha National Park</item>
+        <item>Kanpur</item>
+        <item>Kanyakumari</item>
+        <item>Kargil</item>
+        <item>Karwar</item>
+        <item>Kausani</item>
+        <item>Kedarnath</item>
+        <item>Keoladeoghana National Park</item>
+        <item>Khajuraho</item>
+        <item>Kochi</item>
+        <item>Kodaikanal</item>
+        <item>Kolkata</item>
+        <item>Kollam</item>
+        <item>Konark</item>
+        <item>Kotagiri</item>
+        <item>Kottakkal and Ayurveda</item>
+        <item>Kovalam</item>
+        <item>Kovalam and Ayurveda</item>
+        <item>Kudremukh</item>
+        <item>Kullu</item>
+        <item>Kumaon</item>
+        <item>Kumarakom</item>
+        <item>Kumarakom and Ayurveda</item>
+        <item>Kumarakom Bird Sanctuary</item>
+        <item>Kurukshetra</item>
+        <item>Lakshadweep</item>
+        <item>Lucknow</item>
+        <item>Ludhiana</item>
+        <item>Madurai</item>
+        <item>Mahabalipuram</item>
+        <item>Malpe Beach</item>
+        <item>Manas National Park</item>
+        <item>Mangalore</item>
+        <item>Maravanthe Beach</item>
+        <item>Margoa</item>
+        <item>Mount Abu</item>
+        <item>Mumbai</item>
+        <item>Munnar</item>
+        <item>Mussoorie</item>
+        <item>Mysore</item>
+        <item>Nahsik</item>
+        <item>Nalanda</item>
+        <item>Nanda Devi National Park</item>
+        <item>Nandi Hills</item>
+        <item>Netravali Wild Life Sanctuary</item>
+        <item>Ooty</item>
+        <item>Orchha</item>
+        <item>Pahalgam</item>
+        <item>Palakkad</item>
+        <item>Panchgani</item>
+        <item>Patna</item>
+        <item>Patnitop</item>
+        <item>Pattadakkal</item>
+        <item>Periyar Wildlife Sanctuary</item>
+        <item>Pithoragarh</item>
+        <item>Pondicherry</item>
+        <item>Pune</item>
+        <item>Puri</item>
+        <item>Pushkar</item>
+        <item>Raipur</item>
+        <item>Rajaji National Park</item>
+        <item>Rajgir</item>
+        <item>Rameshwaram</item>
+        <item>Ranchi</item>
+        <item>Ranganthittu Bird Sanctuary</item>
+        <item>Ranikhet</item>
+        <item>Ranthambore</item>
+        <item>Rishikesh</item>
+        <item>Rourkela</item>
+        <item>Sanchi</item>
+        <item>Saputara</item>
+        <item>Sariska Wildlife Sanctuary</item>
+        <item>Shillong</item>
+        <item>Shimla</item>
+        <item>Sohna_Hills</item>
+        <item>Srinagar</item>
+        <item>Sunderbans</item>
+        <item>Surat</item>
+        <item>Tezpur</item>
+        <item>Thanjavur</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Tirunelveli</item>
+        <item>Tirupati</item>
+        <item>Trichy</item>
+        <item>Udaipur</item>
+        <item>Ujjain</item>
+        <item>Vaishali</item>
+        <item>Vellore</item>
+        <item>Valley of Flowers</item>
+        <item>Varanasi</item>
+        <item>Varkala and Ayurveda</item>
+        <item>Vijayawada</item>
+        <item>Vishakhapatnam</item>
+        <item>Vrindhavan</item>
+        <item>Warangal</item>
+        <item>Wayanad</item>
+        <item>Wayanad Wildlife Sanctuary</item>
+        <item>Yercaud</item>
+        <item>Zanskar</item>
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="india_top_colleges">
+        <item>Abhilashi University ,Chailchowk</item>
+        <item>Acharya N.G. Ranga Agricultural University ,Hyderabad</item>
+        <item>Acharya Nagarjuna University ,Guntur</item>
+        <item>Adamas University ,Barasat</item>
+        <item>Adesh University ,Bathinda</item>
+        <item>Adikavi Nannaya University ,Rajahmundry</item>
+        <item>Ahmedabad University ,Ahmedabad</item>
+        <item>AISECT University ,Mendua Village</item>
+        <item>Ajeenkya D.Y. Patil University ,Lohegaon</item>
+        <item>Akal University ,Bathinda</item>
+        <item>AKS University ,Satna</item>
+        <item>Alagappa University ,Karaikudi</item>
+        <item>Al-Falah University ,Faridabad</item>
+        <item>Aliah University ,Kolkata</item>
+        <item>Aligarh Muslim University ,Aligarh …</item>
+        <item>All India Institute of Medical Sciences Bhopal ,Bhopal</item>
+        <item>All India Institute of Medical Sciences Bhubaneswar ,Bhubaneswar</item>
+        <item>All India Institute of Medical Sciences Delhi ,New Delhi</item>
+        <item>All India Institute of Medical Sciences Jodhpur ,Jodhpur</item>
+        <item>All India Institute of Medical Sciences Patna ,Patna</item>
+        <item>All India Institute of Medical Sciences Raipur ,Raipur</item>
+        <item>All India Institute of Medical Sciences Rishikesh ,Rishikesh</item>
+        <item>Allahabad State University ,Allahabad</item>
+        <item>Alliance University ,Bangalore</item>
+        <item>Ambedkar University Delhi ,New Delhi</item>
+        <item>Amity University ,Noida …</item>
+        <item>Amrita Vishwa Vidyapeetham ,Coimbatore …</item>
+        <item>Anand Agricultural University ,Anand</item>
+        <item>Anant National University ,Ahmedabad</item>
+        <item>Andhra University ,Visakhapatnam</item>
+        <item>Anna University ,Chennai</item>
+        <item>Annamalai University ,Chidambaram</item>
+        <item>Ansal University ,Gurgaon</item>
+        <item>AP Goyal Shimla University ,Shimla</item>
+        <item>Apeejay Stya University ,Gurgaon</item>
+        <item>Apex Professional University ,Pasighat</item>
+        <item>APJ Abdul Kalam Technological University ,Thiruvananthapuram</item>
+        <item>Arka Jain University ,Gamharia</item>
+        <item>Arni University ,Kathgarh</item>
+        <item>Arunachal University of Studies ,Namsai</item>
+        <item>Arunodaya University ,Itanagar</item>
+        <item>Aryabhatta Knowledge University ,Patna</item>
+        <item>Ashoka University ,Sonipat</item>
+        <item>Assam Agricultural University ,Jorhat</item>
+        <item>Assam Don Bosco University ,Guwahati</item>
+        <item>Assam Down Town University ,Guwahati</item>
+        <item>Assam Rajiv Gandhi University of Cooperative Management ,Sivasagar</item>
+        <item>Assam Science and Technology University ,Guwahati</item>
+        <item>Assam University ,Silchar</item>
+        <item>Assam Women\'s University ,Jorhat</item>
+        <item>Atal Bihari Vajpayee Hindi Vishwavidyalaya ,Bhopal</item>
+        <item>AURO University ,Surat</item>
+        <item>Avantika University ,Ujjain</item>
+        <item>Avinashilingam University ,Coimbatore</item>
+        <item>Awadhesh Pratap Singh University ,Rewa</item>
+        <item>Ayush and Health Sciences University of Chhattisgarh ,Raipur</item>
+        <item>Azim Premji University ,Bangalore</item>
+        <item>B.S. Abdur Rahman University ,Chennai</item>
+        <item>Baba Farid University of Health Sciences ,Faridkot</item>
+        <item>Baba Ghulam Shah Badhshah University ,Rajouri</item>
+        <item>Baba Mastnath University ,Rohtak</item>
+        <item>Babasaheb Bhimrao Ambedkar Bihar University ,Muzaffarpur</item>
+        <item>Babasaheb Bhimrao Ambedkar University ,Lucknow</item>
+        <item>Babu Banarasi Das University ,Lucknow</item>
+        <item>Baddi University of Emerging Sciences and Technologies ,Baddi</item>
+        <item>BAHRA University ,Waknaghat …</item>
+        <item>Banaras Hindu University ,Varanasi</item>
+        <item>Banasthali Vidyapith ,Banasthali …</item>
+        <item>Banda University of Agriculture and Technology ,Banda</item>
+        <item>Bangalore University ,Bangalore</item>
+        <item>Bankura University ,Bankura</item>
+        <item>Bareilly International University ,Bareilly</item>
+        <item>Barkatullah University ,Bhopal</item>
+        <item>Bastar Vishwavidyalaya ,Bastar</item>
+        <item>Bengaluru North University ,Kolar</item>
+        <item>Bennett University ,Greater Noida</item>
+        <item>Berhampur University ,Berhampur</item>
+        <item>Bhagat Phool Singh Mahila Vishwavidyalaya ,Khanpur Kalan</item>
+        <item>Bhagwant University ,Ajmer</item>
+        <item>Bhakta Kavi Narsinh Mehta University ,Junagadh</item>
+        <item>Bharath Institute of Higher Education and Research ,Chennai</item>
+        <item>Bharathiar University ,Coimbatore</item>
+        <item>Bharathidasan University ,Tiruchirappalli</item>
+        <item>Bharati Vidyapeeth University ,Pune …</item>
+        <item>Bhartiya Skill Development University ,Jaipur</item>
+        <item>Bhatkhande Music Institute ,Lucknow</item>
+        <item>Bhupal Nobles University ,Udaipur</item>
+        <item>Bhupendra Narayan Mandal University ,Madhepura</item>
+        <item>Bidhan Chandra Krishi Vishwavidyalaya ,Mohanpur</item>
+        <item>Bihar Agricultural University ,Bhagalpur</item>
+        <item>Biju Patnaik University of Technology ,Rourkela …</item>
+        <item>Bilaspur Vishwavidyalaya ,Bilaspur</item>
+        <item>Birla Institute of Technology ,Ranchi …</item>
+        <item>Birla Institute of Technology and Science ,Pilani …</item>
+        <item>Birsa Agricultural University ,Ranchi</item>
+        <item>BLDE University ,Bijapur</item>
+        <item>BML Munjal University ,Gurgaon</item>
+        <item>Bodoland University ,Kokrajhar</item>
+        <item>Brainware University ,Barasat</item>
+        <item>Bundelkhand University ,Jhansi</item>
+        <item>C.U. Shah University ,Wadhwan</item>
+        <item>Calorx Teachers University ,Ahmedabad</item>
+        <item>Career Point University ,Hamirpur</item>
+        <item>Central Agricultural University ,Imphal</item>
+        <item>Central Institute of Fisheries Education ,Mumbai</item>
+        <item>Central University of Gujarat ,Gandhinagar</item>
+        <item>Central University of Haryana ,Mahendragarh</item>
+        <item>Central University of Himachal Pradesh ,Kangra</item>
+        <item>Central University of Jammu ,Jammu</item>
+        <item>Central University of Jharkhand ,Ranchi</item>
+        <item>Central University of Karnataka ,Gulbarga</item>
+        <item>Central University of Kashmir ,Srinagar</item>
+        <item>Central University of Kerala ,Kasaragod</item>
+        <item>Central University of Orissa ,Koraput</item>
+        <item>Central University of Punjab ,Bathinda</item>
+        <item>Central University of Rajasthan ,Ajmer</item>
+        <item>Central University of South Bihar ,Patna</item>
+        <item>Central University of Tamil Nadu ,Thiruvarur</item>
+        <item>Central University of Tibetan Studies ,Varanasi</item>
+        <item>Centurion University of Technology and Management ,Bhubaneswar</item>
+        <item>CEPT University ,Ahmedabad</item>
+        <item>Chanakya National Law University ,Patna</item>
+        <item>Chandigarh University ,Mohali …</item>
+        <item>Chandra Shekhar Azad University of Agriculture and Technology ,Kanpur</item>
+        <item>Charotar University of Science and Technology ,Anand</item>
+        <item>Chaudhary Bansi Lal University ,Bhiwani</item>
+        <item>Chaudhary Charan Singh Haryana Agricultural University ,Hisar</item>
+        <item>Chaudhary Charan Singh University ,Meerut</item>
+        <item>Chaudhary Devi Lal University ,Sirsa</item>
+        <item>Chaudhary Ranbir Singh University ,Jind</item>
+        <item>Chennai Mathematical Institute ,Chennai</item>
+        <item>Chhatrapati Shahu Ji Maharaj University ,Kalyanpur</item>
+        <item>Chhattisgarh Kamdhenu Vishwavidyalaya ,Raipur</item>
+        <item>Chhattisgarh Swami Vivekananda Technical University ,Bhilai</item>
+        <item>Children\'s University ,Gandhinagar</item>
+        <item>Chitkara University ,Kalujhanda</item>
+        <item>Chitkara University ,Punjab</item>
+        <item>Christ University ,Bangalore</item>
+        <item>Cluster University of Jammu ,Jammu</item>
+        <item>CMJ University ,Jorabat</item>
+        <item>CMR University ,Bangalore</item>
+        <item>Cochin University of Science and Technology ,Kochi</item>
+        <item>Cooch Behar Panchanan Barma University ,Cooch Behar</item>
+        <item>Cotton University ,Guwahati</item>
+        <item>CSK Himachal Pradesh Krishi Vishvavidyalaya ,Palampur</item>
+        <item>Dakshina Bharat Hindi Prachar Sabha ,Chennai</item>
+        <item>Damodaram Sanjivayya National Law University ,Visakhapatnam …</item>
+        <item>Datta Meghe Institute of Medical Sciences ,Nagpur</item>
+        <item>DAV University ,Jalandhar</item>
+        <item>Davangere University ,Davangere</item>
+        <item>Dayalbagh Educational Institute ,Agra</item>
+        <item>Dayananda Sagar University ,Bangalore</item>
+        <item>Deccan College Post-Graduate and Research Institute ,Pune</item>
+        <item>Deen Dayal Upadhyay Gorakhpur University ,Gorakhpur</item>
+        <item>Deenbandhu Chhotu Ram University of Science and Technology ,Murthal</item>
+        <item>Delhi Pharmaceutical Sciences and Research University ,New Delhi</item>
+        <item>Delhi Technological University ,New Delhi</item>
+        <item>Desh Bhagat University ,Mandi Gobindgarh</item>
+        <item>Dev Sanskriti Vishwavidyalaya ,Shantikunj</item>
+        <item>Devi Ahilya Vishwavidyalaya ,Indore</item>
+        <item>Dharmsinh Desai University ,Nadiad</item>
+        <item>Dhirubhai Ambani Institute of Information and Communication Technology ,Gandhinagar</item>
+        <item>Diamond Harbour Women\'s University ,Sarisha</item>
+        <item>Dibrugarh University ,Dibrugarh</item>
+        <item>DIT University ,Dehradun</item>
+        <item>Doon University ,Dehradun</item>
+        <item>Dr K.N. Modi University ,Newai</item>
+        <item>Dr. A.P.J Abdul Kalam University ,Indore</item>
+        <item>Dr. A.P.J. Abdul Kalam Technical University ,Lucknow</item>
+        <item>Dr. B R Ambedkar National Institute of Technology Jalandhar ,Jalandhar</item>
+        <item>Dr. B.R. Ambedkar University ,Etcherla</item>
+        <item>Dr. B.R. Ambedkar University of Social Sciences ,Indore</item>
+        <item>Dr. Babasaheb Ambedkar Marathwada University ,Aurangabad</item>
+        <item>Dr. Babasaheb Ambedkar Technological University ,Lonere</item>
+        <item>Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth ,Dapoli</item>
+        <item>Dr. Bhimrao Ambedkar University ,Agra</item>
+        <item>Dr. C.V. Raman University ,Bilaspur</item>
+        <item>Dr. D.Y. Patil Vidyapeeth ,Pune</item>
+        <item>Dr. Hari Singh Gour University ,Sagar</item>
+        <item>Dr. M.G.R. Educational and Research Institute ,Chennai</item>
+        <item>Dr. N.T.R. University of Health Sciences ,Vijayawada</item>
+        <item>Dr. Panjabrao Deshmukh Krishi Vidyapeeth ,Akola</item>
+        <item>Dr. Rajendra Prasad Central Agriculture University ,Samastipur</item>
+        <item>Dr. Ram Manohar Lohia Avadh University ,Faizabad</item>
+        <item>Dr. Ram Manohar Lohiya National Law University ,Lucknow</item>
+        <item>Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University ,Jodhpur</item>
+        <item>Dr. Shakuntala Misra Rehabilitation University ,Lucknow</item>
+        <item>Dr. Vishwanath Karad MIT World Peace University ,Pune</item>
+        <item>Dr. Y.S. Parmar University of Horticulture and Forestry ,Nauni</item>
+        <item>Dr.Y.S.R. Horticultural University ,Tadepalligudem</item>
+        <item>Dravidian University ,Kuppam</item>
+        <item>EIILM University ,Jorethang</item>
+        <item>Era University ,Lucknow</item>
+        <item>Eternal University ,Baru Sahib</item>
+        <item>Fakir Mohan University ,Balasore …</item>
+        <item>Flame University ,Pune</item>
+        <item>Forest Research Institute ,Dehradun</item>
+        <item>G H Raisoni University ,Saikheda</item>
+        <item>G.L.S. University ,Ahmedabad</item>
+        <item>Galgotias University ,Noida</item>
+        <item>Gandhi Institute of Technology and Management ,Visakhapatnam</item>
+        <item>Gandhigram Rural University ,Gandhigram</item>
+        <item>Gangadhar Meher University ,Sambalpur</item>
+        <item>Ganpat University ,Mehsana</item>
+        <item>Garden City University ,Bangalore</item>
+        <item>Gauhati University ,Guwahati</item>
+        <item>Gautam Buddha University ,Greater Noida</item>
+        <item>GD Goenka University ,Gurgaon</item>
+        <item>Geetanjali University ,Udaipur</item>
+        <item>GLA University ,Chaumuhan</item>
+        <item>Glocal University ,Saharanpur</item>
+        <item>GNA University ,Phagwara</item>
+        <item>Goa University ,Taleigao</item>
+        <item>Gokhale Institute of Politics and Economics ,Pune</item>
+        <item>Gondwana University ,Gadchiroli</item>
+        <item>Govind Ballabh Pant University of Agriculture and Technology ,Pantnagar</item>
+        <item>Govind Guru Tribal University ,Banswara</item>
+        <item>Graphic Era Hill University ,Clement Town</item>
+        <item>Graphic Era University ,Dehradun</item>
+        <item>GSFC University ,Vadodara</item>
+        <item>Gujarat Ayurved University ,Jamnagar</item>
+        <item>Gujarat Forensic Sciences University ,Gandhinagar</item>
+        <item>Gujarat National Law University ,Gandhinagar</item>
+        <item>Gujarat Technological University ,Ahmedabad</item>
+        <item>Gujarat University ,Ahmedabad</item>
+        <item>Gujarat University of Transplantation Sciences ,Ahmedabad</item>
+        <item>Gujarat Vidyapith ,Ahmedabad …</item>
+        <item>Gulbarga University ,Gulbarga</item>
+        <item>Guru Angad Dev Veterinary and Animal Sciences University ,Ludhiana</item>
+        <item>Guru Ghasidas Vishwavidyalaya ,Bilaspur</item>
+        <item>Guru Gobind Singh Indraprastha University ,New Delhi</item>
+        <item>Guru Jambheshwar University of Science and Technology ,Hisar</item>
+        <item>Guru Kashi University ,Talwandi Sabo</item>
+        <item>Guru Nanak Dev University ,Amritsar</item>
+        <item>Guru Ravidas Ayurved University ,Hoshiarpur</item>
+        <item>Gurukul Kangri Vishwavidyalaya ,Haridwar</item>
+        <item>Harcourt Butler Technical University ,Kanpur</item>
+        <item>Haridev Joshi University of Journalism and Mass Communication ,Jaipur</item>
+        <item>Haryana Vishwakarma Skill University ,Faridabad</item>
+        <item>Hemchandracharya North Gujarat University ,Patan</item>
+        <item>Hemwati Nandan Bahuguna Garhwal University ,Srinagar</item>
+        <item>Hemwati Nandan Bahuguna Medical University ,Dehradun</item>
+        <item>Hidayatullah National Law University ,Raipur</item>
+        <item>Himachal Pradesh Technical University ,Hamirpur</item>
+        <item>Himachal Pradesh University ,Shimla</item>
+        <item>Himalayan Garhwal University ,Pokhara Village</item>
+        <item>Himalayan University ,Itanagar</item>
+        <item>Himgiri ZEE University ,Dehradun</item>
+        <item>Hindustan Institute of Technology and Science ,Chennai</item>
+        <item>Homi Bhabha National Institute ,Mumbai</item>
+        <item>ICFAI University, Dehradun ,Dehradun</item>
+        <item>ICFAI University, Himachal Pradesh ,Baddi</item>
+        <item>ICFAI University, Jaipur ,Jaipur</item>
+        <item>ICFAI University, Jharkhand ,Ranchi</item>
+        <item>ICFAI University, Meghalaya ,Tura</item>
+        <item>ICFAI University, Mizoram ,Aizawl</item>
+        <item>ICFAI University, Nagaland ,Dimapur</item>
+        <item>ICFAI University, Raipur ,Durg</item>
+        <item>ICFAI University, Sikkim ,Gangtok</item>
+        <item>ICFAI University, Tripura ,Agartala</item>
+        <item>IEC University ,Kalujhanda</item>
+        <item>IFHE Hyderabad ,Hyderabad</item>
+        <item>IFTM University ,Moradabad</item>
+        <item>IIHMR University ,Jaipur</item>
+        <item>IIMT University ,Meerut</item>
+        <item>IMS Unison University ,Dehradun</item>
+        <item>Indian Agricultural Research Institute ,New Delhi</item>
+        <item>Indian Institute of Engineering Science and Technology, Shibpur ,Howrah …</item>
+        <item>Indian Institute of Foreign Trade ,New Delhi</item>
+        <item>Indian Institute of Information Technology Allahabad ,Allahabad</item>
+        <item>Indian Institute of Information Technology and Management Gwalior ,Gwalior</item>
+        <item>Indian Institute of Information Technology, Design and Manufacturing ,Chennai</item>
+        <item>Indian Institute of Information Technology, Guwahati ,Guwahati</item>
+        <item>Indian Institute of Information Technology, Kalyani ,Kalyani</item>
+        <item>Indian Institute of Information Technology, Kottayam ,Kottayam</item>
+        <item>Indian Institute of Information Technology, Lucknow ,Allahabad</item>
+        <item>Indian Institute of Information Technology, Manipur ,Imphal</item>
+        <item>Indian Institute of Information Technology, Sri City ,Sri City</item>
+        <item>Indian Institute of Information Technology, Una ,Una</item>
+        <item>Indian Institute of Information Technology, Vadodara ,Gandhinagar</item>
+        <item>Indian Institute of Public Health ,Gandhinagar</item>
+        <item>Indian Institute of Science ,Bangalore</item>
+        <item>Indian Institute of Science Education and Research, Bhopal ,Bhopal</item>
+        <item>Indian Institute of Science Education and Research, Kolkata ,Mohanpur</item>
+        <item>Indian Institute of Science Education and Research, Mohali ,Mohali</item>
+        <item>Indian Institute of Science Education and Research, Pune ,Pune</item>
+        <item>Indian Institute of Science Education and Research, Thiruvananthapuram ,Thiruvananthapuram</item>
+        <item>Indian Institute of Space Science and Technology ,Thiruvananthapuram</item>
+        <item>Indian Institute of Teacher Education ,Gandhinagar</item>
+        <item>Indian Institute of Technology Bhubaneswar ,Bhubaneswar</item>
+        <item>Indian Institute of Technology Bombay ,Mumbai</item>
+        <item>Indian Institute of Technology Delhi ,New Delhi</item>
+        <item>Indian Institute of Technology Gandhinagar ,Chandkheda</item>
+        <item>Indian Institute of Technology Guwahati ,Guwahati</item>
+        <item>Indian Institute of Technology Hyderabad ,Eddumailaram</item>
+        <item>Indian Institute of Technology Indore ,Indore</item>
+        <item>Indian Institute of Technology Jodhpur ,Jodhpur</item>
+        <item>Indian Institute of Technology Kanpur ,Kanpur</item>
+        <item>Indian Institute of Technology Kharagpur ,Kharagpur</item>
+        <item>Indian Institute of Technology Madras ,Chennai</item>
+        <item>Indian Institute of Technology Mandi ,Mandi</item>
+        <item>Indian Institute of Technology Patna ,Patna</item>
+        <item>Indian Institute of Technology Roorkee ,Roorkee</item>
+        <item>Indian Institute of Technology Ropar ,Rupnagar</item>
+        <item>Indian Institute of Technology, BHU ,Varanasi</item>
+        <item>Indian Maritime University ,Chennai</item>
+        <item>Indian School of Mines ,Dhanbad</item>
+        <item>Indian Statistical Institute ,Kolkata …</item>
+        <item>Indian Veterinary Research Institute ,Bareilly …</item>
+        <item>Indira Gandhi Delhi Technical University for Women ,New Delhi</item>
+        <item>Indira Gandhi Institute of Development Research ,Mumbai</item>
+        <item>Indira Gandhi Institute of Medical Sciences, Sheikhpura ,Patna</item>
+        <item>Indira Gandhi Krishi Vishwavidyalaya ,Raipur</item>
+        <item>Indira Gandhi National Tribal University ,Amarkantak</item>
+        <item>Indira Gandhi Technological and Medical Sciences University ,Ziro</item>
+        <item>Indira Gandhi University, Meerpur ,Rewari</item>
+        <item>Indira Kala Sangeet Vishwavidyalaya ,Khairagarh</item>
+        <item>Indraprastha Institute of Information Technology ,New Delhi</item>
+        <item>Indrashil University ,Dholera</item>
+        <item>Indus International University ,Bathu</item>
+        <item>Indus University ,Ahmedabad</item>
+        <item>Institute of Advanced Research ,Gandhinagar</item>
+        <item>Institute of Advanced Studies in Education ,Sardarshahr</item>
+        <item>Institute of Chemical Technology ,Mumbai</item>
+        <item>Institute of Infrastructure, Technology, Research and Management ,Ahmedabad</item>
+        <item>Integral University ,Lucknow</item>
+        <item>International Institute for Population Sciences ,Mumbai</item>
+        <item>International Institute of Information Technology Bangalore ,Bangalore</item>
+        <item>International Institute of Information Technology, Bhubaneswar ,Bhubaneswar</item>
+        <item>International Institute of Information Technology, Hyderabad ,Hyderabad</item>
+        <item>International Institute of Information Technology, Naya Raipur ,Naya Raipur</item>
+        <item>Invertis University ,Bareilly</item>
+        <item>ISBM University ,Gariyaband</item>
+        <item>Islamic University of Science and Technology ,Pulwama</item>
+        <item>ITM University Gwalior ,Gwalior</item>
+        <item>ITM University Raipur ,Raipur</item>
+        <item>ITM Vocational University ,Waghodia</item>
+        <item>Jadavpur University ,Kolkata</item>
+        <item>Jagadguru Ramanandacharya Rajasthan Sanskrit University ,Jaipur</item>
+        <item>Jagadguru Rambhadracharya Handicapped University ,Chitrakoot</item>
+        <item>Jagadguru Sri Shivarathreeswara University ,Mysore …</item>
+        <item>Jagan Nath University ,Jhajjar</item>
+        <item>Jagannath University ,Jaipur</item>
+        <item>Jagran Lakecity University ,Bhopal</item>
+        <item>Jai Narain Vyas University ,Jodhpur</item>
+        <item>Jai Prakash Vishwavidyalaya ,Chapra</item>
+        <item>Jain University ,Bangalore</item>
+        <item>Jain Vishva Bharati Institute ,Ladnun</item>
+        <item>Jaipur National University ,Jaipur</item>
+        <item>Jamia Hamdard ,New Delhi</item>
+        <item>Jamia Millia Islamia ,New Delhi</item>
+        <item>Jananayak Chandrashekhar University ,Ballia</item>
+        <item>Janardan Rai Nagar Rajasthan Vidhyapeeth University ,Udaipur</item>
+        <item>Jawaharlal Institute of Postgraduate Medical Education and Research ,Puducherry</item>
+        <item>Jawaharlal Nehru Architecture and Fine Arts University ,Hyderabad</item>
+        <item>Jawaharlal Nehru Centre for Advanced Scientific Research ,Bangalore</item>
+        <item>Jawaharlal Nehru Krishi Vishwavidyalaya ,Jabalpur</item>
+        <item>Jawaharlal Nehru Technological University ,Hyderabad …</item>
+        <item>Jawaharlal Nehru Technological University, Anantapur ,Anantapur</item>
+        <item>Jawaharlal Nehru Technological University, Kakinada ,Kakinada</item>
+        <item>Jawaharlal Nehru University ,New Delhi</item>
+        <item>Jayoti Vidyapeeth Women\'s University ,Jaipur</item>
+        <item>Jaypee Institute of Information Technology ,Noida</item>
+        <item>Jaypee University Anoopshahr ,Anupshahr</item>
+        <item>Jaypee University of Engineering and Technology ,Raghogarh</item>
+        <item>Jaypee University of Information Technology ,Waknaghat</item>
+        <item>JECRC University ,Jaipur</item>
+        <item>Jharkhand Rai University ,Ranchi</item>
+        <item>Jharkhand Raksha Shakti University ,Ranchi</item>
+        <item>JIS University ,Agarpara</item>
+        <item>Jiwaji University ,Gwalior</item>
+        <item>JK Lakshmipat University ,Jaipur</item>
+        <item>Jodhpur National University ,Jodhpur</item>
+        <item>JS University ,Shikohabad</item>
+        <item>JSS Science and Technology University ,Mysore</item>
+        <item>Junagadh Agricultural University ,Junagadh</item>
+        <item>K L University ,Vaddeswaram</item>
+        <item>K.K. University ,Biharsharif</item>
+        <item>K.R. Mangalam University ,Gurgaon</item>
+        <item>Kadi Sarva Vishwavidyalaya ,Gandhinagar</item>
+        <item>Kakatiya University ,Warangal …</item>
+        <item>Kalasalingam University ,Krishnankoil</item>
+        <item>Kalinga University ,Raipur</item>
+        <item>Kamdhenu University ,Gandhinagar</item>
+        <item>Kameshwar Singh Darbhanga Sanskrit University ,Darbhanga</item>
+        <item>Kannada University ,Vidyaranya</item>
+        <item>Kannur University ,Kannur</item>
+        <item>Karnatak University ,Dharwad</item>
+        <item>Karnataka Janapada Vishwavidyalaya ,Shiggaon</item>
+        <item>Karnataka Sanskrit University ,Bangalore</item>
+        <item>Karnataka State Law University ,Hubli</item>
+        <item>Karnataka State Rural Development and Panchayat Raj University ,Gadag</item>
+        <item>Karnataka State Women\'s University ,Bijapur …</item>
+        <item>Karnataka Veterinary, Animal and Fisheries Sciences University ,Bidar</item>
+        <item>Karnavati University ,Gandhinagar</item>
+        <item>Karpagam Academy of Higher Education ,Coimbatore</item>
+        <item>Karunya University ,Coimbatore</item>
+        <item>Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya ,Nagpur</item>
+        <item>Kazi Nazrul University ,Asansol</item>
+        <item>Kaziranga University ,Jorhat</item>
+        <item>Kerala Agricultural University ,Thrissur …</item>
+        <item>Kerala Kalamandalam ,Cheruthuruthi</item>
+        <item>Kerala University of Fisheries and Ocean Studies ,Kochi</item>
+        <item>Kerala University of Health Sciences ,Thrissur</item>
+        <item>Kerala Veterinary and Animal Sciences University ,Pookode</item>
+        <item>Khallikote University ,Berhampur</item>
+        <item>Khalsa University ,Amritsar</item>
+        <item>Khwaja Moinuddin Chishti Urdu, Arabi-Farsi University ,Lucknow</item>
+        <item>KIIT University ,Bhubaneswar</item>
+        <item>King George\'s Medical University ,Lucknow</item>
+        <item>KLE Technological University ,Hubli</item>
+        <item>KLE University ,Belgaum …</item>
+        <item>Kolhan University ,Chaibasa</item>
+        <item>Krantiguru Shyamji Krishna Verma Kachchh University ,Bhuj</item>
+        <item>Krishna Institute of Medical Sciences ,Karad</item>
+        <item>Krishna University ,Machilipatnam</item>
+        <item>KSGH Music and Performing Arts University ,Mysore</item>
+        <item>Kumar Bhaskar Varma Sanskrit and Ancient Studies University ,Nalbari</item>
+        <item>Kumaun University ,Nainital</item>
+        <item>Kurukshetra University ,Kurukshetra …</item>
+        <item>Kushabhau Thakre Patrakarita Avam Jansanchar University ,Raipur</item>
+        <item>Kuvempu University ,Shimoga</item>
+        <item>Lakshmibai National Institute of Physical Education ,Gwalior</item>
+        <item>Lakulish Yoga University ,Ahmedabad</item>
+        <item>Lala Lajpat Rai University of Veterinary and Animal Sciences ,Hisar</item>
+        <item>Lalit Narayan Mithila University ,Darbhanga</item>
+        <item>Lingaya\'s University ,Faridabad</item>
+        <item>LNCT University ,Bhopal</item>
+        <item>Lovely Professional University ,Phagwara</item>
+        <item>M.J.P. Rohilkhand University ,Bareilly</item>
+        <item>M.S. Ramaiah University of Applied Sciences ,Bangalore</item>
+        <item>Madan Mohan Malaviya University of Technology ,Gorakhpur</item>
+        <item>Madhav University ,Pindwara</item>
+        <item>Madurai Kamaraj University ,Madurai</item>
+        <item>Magadh University ,Bodh Gaya</item>
+        <item>Mahapurusha Srimanta Sankaradeva Viswavidyalaya ,Nagaon</item>
+        <item>Maharaja Agrasen University ,Baddi</item>
+        <item>Maharaja Bir Bikram University ,Agartala</item>
+        <item>Maharaja Chhatrasal Bundelkhand University ,Chhatarpur</item>
+        <item>Maharaja Ganga Singh University ,Bikaner</item>
+        <item>Maharaja Krishnakumarsinhji Bhavnagar University ,Bhavnagar</item>
+        <item>Maharaja Ranjit Singh Punjab Technical University ,Bathinda</item>
+        <item>Maharaja Surajmal Brij University ,Bharatpur</item>
+        <item>Maharana Pratap University of Agriculture and Technology ,Udaipur</item>
+        <item>Maharashtra Animal and Fishery Sciences University ,Nagpur</item>
+        <item>Maharashtra National Law University, Aurangabad ,Aurangabad</item>
+        <item>Maharashtra National Law University, Mumbai ,Mumbai</item>
+        <item>Maharashtra National Law University, Nagpur ,Nagpur</item>
+        <item>Maharashtra University of Health Sciences ,Nashik</item>
+        <item>Maharishi Arvind University, Jaipur ,Mundiya Purohitan</item>
+        <item>Maharishi Dayanand University ,Rohtak</item>
+        <item>Maharishi Mahesh Yogi Vedic Vishwavidyalaya ,Katni …</item>
+        <item>Maharishi Markandeshwar University, Mullana ,Mullana …</item>
+        <item>Maharishi Markandeshwar University, Sadopur ,Ambala …</item>
+        <item>Maharishi Markandeshwar University, Solan ,Solan …</item>
+        <item>Maharishi University ,Lucknow</item>
+        <item>Maharishi University of Management and Technology ,Bilaspur …</item>
+        <item>Maharshi Dayanand Saraswati University ,Ajmer</item>
+        <item>Maharshi Panini Sanskrit Vishwavidyalaya ,Ujjain</item>
+        <item>Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya ,Wardha</item>
+        <item>Mahatma Gandhi Central University, Motihari ,Motihari</item>
+        <item>Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya ,Chitrakoot</item>
+        <item>Mahatma Gandhi Kashi Vidyapeeth ,Varanasi …</item>
+        <item>Mahatma Gandhi University ,Kottayam</item>
+        <item>Mahatma Gandhi University of Medical Sciences and Technology ,Jaipur</item>
+        <item>Mahatma Gandhi University, Meghalaya ,Khanapara</item>
+        <item>Mahatma Gandhi University, Nalgonda ,Nalgonda</item>
+        <item>Mahatma Jyoti Rao Phoole University ,Jaipur</item>
+        <item>Mahatma Phule Krishi Vidyapeeth ,Rahuri</item>
+        <item>Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya ,Bhopal …</item>
+        <item>Malaviya National Institute of Technology, Jaipur ,Jaipur</item>
+        <item>Malwanchal University ,Indore</item>
+        <item>Manav Bharti University ,Solan</item>
+        <item>Manav Rachna International Institute of Research and Studies ,Faridabad</item>
+        <item>Manav Rachna University ,Faridabad</item>
+        <item>Mandsaur University ,Mandsaur</item>
+        <item>Mangalayatan University ,Aligarh</item>
+        <item>Mangalore University ,Mangalore</item>
+        <item>Manipal University ,Manipal …</item>
+        <item>Manipur Technical University ,Imphal</item>
+        <item>Manipur University ,Imphal</item>
+        <item>Manipur University of Culture ,Imphal</item>
+        <item>Manonmaniam Sundaranar University ,Tirunelveli</item>
+        <item>Martin Luther Christian University ,Shillong</item>
+        <item>Marwadi University ,Rajkot</item>
+        <item>MATS University ,Aarang</item>
+        <item>Maulana Abul Kalam Azad University of Technology ,Kolkata</item>
+        <item>Maulana Azad National Institute of Technology ,Bhopal</item>
+        <item>Maulana Azad National Urdu University ,Hyderabad</item>
+        <item>Maulana Azad University, Jodhpur ,Jodhpur</item>
+        <item>Maulana Mazharul Haque Arabic and Persian University ,Patna</item>
+        <item>Medi-Caps University ,Indore</item>
+        <item>Meenakshi Academy of Higher Education and Research ,Chennai</item>
+        <item>Mewar University ,Chittorgarh</item>
+        <item>MGM Institute of Health Sciences ,Navi Mumbai</item>
+        <item>MIT Art Design and Technology University ,Pune</item>
+        <item>Mizoram University ,Aizawl</item>
+        <item>Mody University of Science and Technology ,Lakshmangarh</item>
+        <item>Mohammad Ali Jauhar University ,Rampur</item>
+        <item>Mohanlal Sukhadia University ,Udaipur</item>
+        <item>Monad University ,Hapur</item>
+        <item>Mother Teresa Women\'s University ,Kodaikanal</item>
+        <item>Motherhood University ,Bhagwanpur</item>
+        <item>Motilal Nehru National Institute of Technology ,Allahabad</item>
+        <item>MVN University ,Palwal</item>
+        <item>Nagaland University ,Kohima</item>
+        <item>Nalanda University ,Rajgir</item>
+        <item>NALSAR University of Law ,Hyderabad</item>
+        <item>Nanaji Deshmukh Veterinary Science University ,Jabalpur</item>
+        <item>Narendra Dev University of Agriculture and Technology ,Faizabad</item>
+        <item>Narsee Monjee Institute of Management and Higher Studies ,Mumbai</item>
+        <item>National Dairy Research Institute ,Karnal …</item>
+        <item>National Institute of Design ,Ahmedabad …</item>
+        <item>National Institute of Fashion Technology ,New Delhi …</item>
+        <item>National Institute of Food Technology Entrepreneurship and Management ,Sonipat</item>
+        <item>National Institute of Mental Health and Neuro Sciences ,Bangalore</item>
+        <item>National Institute of Pharmaceutical Education and Research, Ahmedabad ,Ahmedabad</item>
+        <item>National Institute of Pharmaceutical Education and Research, Guwahati ,Guwahati</item>
+        <item>National Institute of Pharmaceutical Education and Research, Hajipur ,Hajipur</item>
+        <item>National Institute of Pharmaceutical Education and Research, Hyderabad ,Hyderabad</item>
+        <item>National Institute of Pharmaceutical Education and Research, Kolkata ,Kolkata</item>
+        <item>National Institute of Pharmaceutical Education and Research, Mohali ,Mohali</item>
+        <item>National Institute of Pharmaceutical Education and Research, Rae Bareli ,Rae Bareli</item>
+        <item>National Institute of Technology, Agartala ,Agartala</item>
+        <item>National Institute of Technology, Arunachal Pradesh ,Yupia</item>
+        <item>National Institute of Technology, Calicut ,Calicut</item>
+        <item>National Institute of Technology, Delhi ,New Delhi</item>
+        <item>National Institute of Technology, Durgapur ,Durgapur</item>
+        <item>National Institute of Technology, Goa ,Farmagudi</item>
+        <item>National Institute of Technology, Hamirpur ,Hamirpur</item>
+        <item>National Institute of Technology, Jamshedpur ,Jamshedpur</item>
+        <item>National Institute of Technology, Karnataka ,Mangalore</item>
+        <item>National Institute of Technology, Kurukshetra ,Kurukshetra</item>
+        <item>National Institute of Technology, Manipur ,Imphal</item>
+        <item>National Institute of Technology, Meghalaya ,Shillong</item>
+        <item>National Institute of Technology, Mizoram ,Aizawl</item>
+        <item>National Institute of Technology, Nagaland ,Dimapur</item>
+        <item>National Institute of Technology, Patna ,Patna</item>
+        <item>National Institute of Technology, Puducherry ,Karaikal</item>
+        <item>National Institute of Technology, Raipur ,Raipur</item>
+        <item>National Institute of Technology, Rourkela ,Rourkela</item>
+        <item>National Institute of Technology, Sikkim ,Ravangla</item>
+        <item>National Institute of Technology, Silchar ,Silchar</item>
+        <item>National Institute of Technology, Srinagar ,Srinagar</item>
+        <item>National Institute of Technology, Tiruchirappalli ,Tiruchirappalli</item>
+        <item>National Institute of Technology, Uttarakhand ,Srinagar</item>
+        <item>National Institute of Technology, Warangal ,Warangal</item>
+        <item>National Law Institute University ,Bhopal</item>
+        <item>National Law School of India University ,Bangalore</item>
+        <item>National Law University ,New Delhi</item>
+        <item>National Law University and Judicial Academy ,Guwahati</item>
+        <item>National Law University, Jodhpur ,Jodhpur</item>
+        <item>National Law University, Orissa ,Cuttack</item>
+        <item>National University of Educational Planning and Administration ,New Delhi</item>
+        <item>National University of Study and Research in Law ,Ranchi</item>
+        <item>Nava Nalanda Mahavihara ,Bargaon</item>
+        <item>Navrachana University ,Vadodara</item>
+        <item>Navsari Agricultural University ,Navsari …</item>
+        <item>Nehru Gram Bharati Vishwavidyalaya ,Allahabad</item>
+        <item>NIILM University ,Kaithal</item>
+        <item>NIIT University ,Neemrana</item>
+        <item>Nilamber-Pitamber University ,Medininagar</item>
+        <item>NIMS University ,Jaipur</item>
+        <item>Nirma University of Science and Technology ,Ahmedabad</item>
+        <item>NITTE University ,Mangalore</item>
+        <item>Nizam\'s Institute of Medical Sciences ,Hyderabad</item>
+        <item>Noida International University ,Greater Noida</item>
+        <item>North East Frontier Technical University ,Aalo</item>
+        <item>North Eastern Hill University ,Shillong …</item>
+        <item>North Eastern Regional Institute of Science and Technology ,Itanagar</item>
+        <item>North Maharashtra University ,Jalgaon …</item>
+        <item>North Orissa University ,Baripada</item>
+        <item>O.P. Jindal Global University ,Sonipat</item>
+        <item>O.P. Jindal University ,Raigarh</item>
+        <item>OPJS University ,Churu</item>
+        <item>Oriental University ,Indore</item>
+        <item>Orissa University of Agriculture and Technology ,Bhubaneswar</item>
+        <item>Osmania University ,Hyderabad</item>
+        <item>P P Savani University ,Kosamba</item>
+        <item>P.K. University ,Village Thanara</item>
+        <item>Pacific Medical University ,Udaipur</item>
+        <item>Pacific University, India ,Udaipur</item>
+        <item>Padmashree Dr. D.Y. Patil Vidyapith ,Navi Mumbai</item>
+        <item>Palamuru University ,Mahabubnagar</item>
+        <item>Pandit Deendayal Petroleum University ,Gandhinagar</item>
+        <item>Pandit Deendayal Upadhyaya Shekhawati University ,Sikar</item>
+        <item>Pandit Ravishankar Shukla University ,Raipur</item>
+        <item>Panjab University ,Chandigarh</item>
+        <item>Parul University ,Waghodia</item>
+        <item>Patna University ,Patna</item>
+        <item>PDM University ,Bahadurgarh</item>
+        <item>PDPM Indian Institute of Information Technology, Design and Manufacturing ,Jabalpur</item>
+        <item>PEC University of Technology ,Chandigarh</item>
+        <item>People\'s University ,Bhopal</item>
+        <item>Periyar Maniammai University ,Vallam …</item>
+        <item>Periyar University ,Salem</item>
+        <item>PES University ,Bangalore</item>
+        <item>Plastindia International University ,Vapi</item>
+        <item>Pondicherry University ,Puducherry …</item>
+        <item>Ponnaiyan Ramajayam Institute of Science and Technology ,Thanjavur</item>
+        <item>Poornima University ,Jaipur</item>
+        <item>Post Graduate Institute of Medical Education and Research ,Chandigarh</item>
+        <item>Potti Sreeramulu Telugu University ,Hyderabad</item>
+        <item>Pragyan International University ,Ranchi</item>
+        <item>Pratap University ,Jaipur</item>
+        <item>Pravara Institute of Medical Sciences ,Loni</item>
+        <item>Presidency University ,Bangalore</item>
+        <item>Presidency University ,Kolkata</item>
+        <item>Professor Jayashankar Telangana State Agricultural University ,Hyderabad</item>
+        <item>Pt. Bhagwat Dayal Sharma University of Health Sciences ,Rohtak</item>
+        <item>Punjab Agricultural University ,Ludhiana</item>
+        <item>Punjab Technical University ,Kapurthala</item>
+        <item>Punjabi University ,Patiala</item>
+        <item>Quantum University ,Roorkee</item>
+        <item>Rabindra Bharati University ,Kolkata</item>
+        <item>Raffles University ,Neemrana</item>
+        <item>Rai Technology University ,Doddaballapura</item>
+        <item>Rai University ,Dholka</item>
+        <item>Raiganj University ,Raiganj</item>
+        <item>Raj Rishi Bharthari Matsya University ,Alwar</item>
+        <item>Raja Mansingh Tomar Music and Arts University ,Gwalior</item>
+        <item>Rajasthan Technical University Kota ,Kota</item>
+        <item>Rajasthan University of Health Sciences ,Jaipur</item>
+        <item>Rajasthan University of Veterinary and Animal Sciences ,Bikaner</item>
+        <item>Rajiv Gandhi Institute of Petroleum Technology ,Raebareli</item>
+        <item>Rajiv Gandhi National Aviation University ,Raebareli</item>
+        <item>Rajiv Gandhi National Institute of Youth Development ,Sriperumbudur</item>
+        <item>Rajiv Gandhi National University of Law ,Patiala</item>
+        <item>Rajiv Gandhi Proudyogiki Vishwavidyalaya ,Bhopal …</item>
+        <item>Rajiv Gandhi University ,Itanagar</item>
+        <item>Rajiv Gandhi University of Health Sciences ,Bangalore</item>
+        <item>Rajiv Gandhi University of Knowledge Technologies ,Hyderabad</item>
+        <item>Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya ,Gwalior</item>
+        <item>Raksha Shakti University ,Ahmedabad</item>
+        <item>Rama Devi Women\'s University ,Bhubaneswar</item>
+        <item>Rama University ,Kanpur</item>
+        <item>Ramakrishna Mission Vivekananda University ,Belur …</item>
+        <item>Ranchi University ,Ranchi</item>
+        <item>Rani Channamma University, Belagavi ,Belagavi</item>
+        <item>Rani Durgavati Vishwavidyalaya ,Jabalpur</item>
+        <item>Rani Lakshmi Bai Central Agricultural University ,Jhansi</item>
+        <item>Ras Bihari Bose Subharti University ,Dehradun</item>
+        <item>Rashtrasant Tukadoji Maharaj Nagpur University ,Nagpur</item>
+        <item>Rashtriya Sanskrit Sansthan University ,New Delhi</item>
+        <item>Rashtriya Sanskrit Vidyapeetha ,Tirupati</item>
+        <item>Ravenshaw University ,Cuttack</item>
+        <item>Rayalaseema University ,Kurnool</item>
+        <item>Rayat-Bahra University ,Kharar</item>
+        <item>REVA University ,Bangalore</item>
+        <item>RIMT University ,Mandi Gobindgarh</item>
+        <item>RK University ,Rajkot</item>
+        <item>RKDF University ,Bhopal</item>
+        <item>Sai Nath University ,Ranchi</item>
+        <item>Sai Tirupati University ,Udaipur</item>
+        <item>Sam Higginbottom Institute of Agriculture, Technology and Sciences ,Allahabad</item>
+        <item>Sambalpur University ,Burla</item>
+        <item>Sampurnanand Sanskrit Vishvavidyalaya ,Varanasi</item>
+        <item>Sanchi University of Buddhist-Indic Studies ,Sanchi</item>
+        <item>Sandip University ,Mahiravani</item>
+        <item>Sandip University, Sijoul ,Sijoul</item>
+        <item>Sangai International University ,Churachandpur</item>
+        <item>Sangam University ,Bhilwara</item>
+        <item>Sanjay Gandhi Post Graduate Institute of Medical Sciences ,Lucknow</item>
+        <item>Sanjay Ghodawat University ,Kolhapur</item>
+        <item>Sankalchand Patel University ,Visnagar</item>
+        <item>Sanskriti University ,Mathura</item>
+        <item>Sant Baba Bhag Singh University ,Jalandhar</item>
+        <item>Sant Gadge Baba Amravati University ,Amravati</item>
+        <item>Sant Longowal Institute of Engineering and Technology ,Sangrur</item>
+        <item>Santosh University ,Ghaziabad</item>
+        <item>Sardar Patel University ,Vallabh Vidyanagar</item>
+        <item>Sardar Patel University of Police, Security and Criminal Justice ,Jodhpur</item>
+        <item>Sardar Vallabhbhai National Institute of Technology, Surat ,Surat</item>
+        <item>Sardar Vallabhbhai Patel University of Agriculture and Technology ,Meerut</item>
+        <item>Sardarkrushinagar Dantiwada Agricultural University ,Palanpur</item>
+        <item>Sarguja University ,Ambikapur</item>
+        <item>Sarla Birla University ,Ranchi</item>
+        <item>Sarvepalli Radhakrishnan University ,Bhopal</item>
+        <item>SASTRA University ,Thanjavur …</item>
+        <item>Satavahana University ,Karimnagar</item>
+        <item>Sathyabama University ,Chennai</item>
+        <item>Saurashtra University ,Rajkot</item>
+        <item>Saveetha University ,Chennai</item>
+        <item>Savitribai Phule Pune University ,Pune</item>
+        <item>School of Planning and Architecture, Bhopal ,Bhopal</item>
+        <item>School of Planning and Architecture, Delhi ,New Delhi</item>
+        <item>School of Planning and Architecture, Vijayawada ,Vijayawada</item>
+        <item>Seacom Skills University ,Santiniketan</item>
+        <item>Sharda University ,Greater Noida</item>
+        <item>Sharnbasva University ,Gulbarga</item>
+        <item>Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu ,Jammu</item>
+        <item>Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir ,Srinagar</item>
+        <item>Sher-i-Kashmir Institute of Medical Sciences ,Srinagar</item>
+        <item>Shiv Nadar University ,Dadri</item>
+        <item>Shivaji University ,Kolhapur</item>
+        <item>Shobhit University ,Meerut</item>
+        <item>Shoolini University of Biotechnology and Management Sciences ,Solan</item>
+        <item>Shree Guru Gobind Singh Tricentenary University ,Gurgaon</item>
+        <item>Shree Somnath Sanskrit University ,Veraval</item>
+        <item>Shreemati Nathibai Damodar Thackersey Women\'s University ,Mumbai</item>
+        <item>Shri Govind Guru University ,Godhra</item>
+        <item>Shri Guru Ram Rai Education Mission ,Dehradun …</item>
+        <item>Shri Guru Ram Rai University ,Dehradun</item>
+        <item>Shri Jagannath Sanskrit Vishvavidyalaya ,Puri</item>
+        <item>Shri Jagdishprasad Jhabrmal Tibrewala University ,Jhunjhunu</item>
+        <item>Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha ,New Delhi</item>
+        <item>Shri Mata Vaishno Devi University ,Katra</item>
+        <item>Shri Ramswaroop Memorial University ,Barabanki</item>
+        <item>Shri Vaishnav Vidyapeeth Vishwavidyalaya ,Indore</item>
+        <item>Shri Venkateshwara University ,Gajraula</item>
+        <item>Shridhar University ,Pilani</item>
+        <item>Siddharth University ,Kapilvastu</item>
+        <item>Sidho Kanho Birsha University ,Purulia …</item>
+        <item>Sido Kanhu Murmu University ,Dumka</item>
+        <item>Sikkim Manipal University ,Gangtok</item>
+        <item>Sikkim University ,Tadong</item>
+        <item>Siksha O Anusandhan University ,Bhubaneswar</item>
+        <item>Singhania University ,Jhunjhunu</item>
+        <item>Sir Padampat Singhania University ,Udaipur</item>
+        <item>South Asian University ,New Delhi</item>
+        <item>Spicer Adventist University ,Pune</item>
+        <item>Sree Chitra Thirunal Institute of Medical Sciences and Technology ,Thiruvananthapuram</item>
+        <item>Sree Sankaracharya University of Sanskrit ,Kalady</item>
+        <item>Sri Balaji Vidyapeeth ,Puducherry</item>
+        <item>Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya ,Kanchipuram</item>
+        <item>Sri Dev Suman Uttarakhand University ,Tehri</item>
+        <item>Sri Devaraj Urs Academy of Higher Education and Research ,Kolar</item>
+        <item>Sri Guru Granth Sahib World University ,Fatehgarh Sahib</item>
+        <item>Sri Guru Ram Das University of Health Sciences ,Qila Jiwan Singh</item>
+        <item>Sri Konda Laxman Telangana State Horticultural University ,Hyderabad</item>
+        <item>Sri Krishnadevaraya University ,Anantapur …</item>
+        <item>Sri Padmavati Mahila Visvavidyalayam ,Tirupati</item>
+        <item>Sri Ramachandra University ,Chennai</item>
+        <item>Sri Sai University ,Palampur</item>
+        <item>Sri Sathya Sai Institute of Higher Learning ,Anantapur</item>
+        <item>Sri Satya Sai University of Technology and Medical Sciences ,Sehore</item>
+        <item>Sri Siddhartha Academy of Higher Education ,Tumkur</item>
+        <item>Sri Sri University ,Cuttack</item>
+        <item>Sri Venkateswara Institute of Medical Sciences ,Tirupati</item>
+        <item>Sri Venkateswara University ,Tirupati</item>
+        <item>Sri Venkateswara Vedic University ,Tirupati</item>
+        <item>Sri Venkateswara Veterinary University ,Tirupati</item>
+        <item>Srimanta Sankaradeva University of Health Sciences ,Guwahati</item>
+        <item>Srinivas University ,Mangalore</item>
+        <item>SRM Institute of Science and Technology ,Chennai</item>
+        <item>SRM University Haryana ,Sonipat</item>
+        <item>SRM University, Sikkim ,Gangtok</item>
+        <item>St. Joseph University ,Dimapur</item>
+        <item>St. Peter\'s University ,Chennai</item>
+        <item>St. Xavier\'s University ,Kolkata</item>
+        <item>Starex University ,Gurgaon</item>
+        <item>State University of Performing and Visual Arts ,Rohtak</item>
+        <item>Suamandeep Vidyapeeth ,Vadodara</item>
+        <item>Sunrise University ,Alwar …</item>
+        <item>Suresh Gyan Vihar University ,Jaipur</item>
+        <item>Swami Keshwanand Rajasthan Agricultural University ,Bikaner</item>
+        <item>Swami Rama Himalayan University ,Dehradun</item>
+        <item>Swami Ramanand Teerth Marathwada University ,Nanded</item>
+        <item>Swami Vivekanand Subharti University ,Meerut</item>
+        <item>Swami Vivekanand University ,Sagar</item>
+        <item>Swami Vivekananda Yoga Anusandhana Samsthana ,Bangalore</item>
+        <item>Swarnim Gujarat Sports University ,Gandhinagar</item>
+        <item>Swarnim Startup and Innovation University ,Gandhinagar</item>
+        <item>Symbiosis International University ,Pune</item>
+        <item>Symbiosis University of Applied Sciences ,Indore</item>
+        <item>Tamil Nadu Agricultural University ,Coimbatore …</item>
+        <item>Tamil Nadu Dr Ambedkar Law University ,Chennai</item>
+        <item>Tamil Nadu Dr. M.G.R.Medical University ,Chennai</item>
+        <item>Tamil Nadu Fisheries University ,Nagapattinam</item>
+        <item>Tamil Nadu Music and Fine Arts University ,Chennai</item>
+        <item>Tamil Nadu National Law School ,Tiruchirappalli</item>
+        <item>Tamil Nadu Physical Education and Sports University ,Chennai</item>
+        <item>Tamil Nadu Teacher Education University ,Chennai</item>
+        <item>Tamil Nadu Veterinary and Animal Sciences University ,Chennai …</item>
+        <item>Tamil University ,Thanjavur</item>
+        <item>Tantia University ,Sri Ganganagar</item>
+        <item>Tata Institute of Fundamental Research ,Mumbai</item>
+        <item>Tata Institute of Social Sciences ,Mumbai</item>
+        <item>TeamLease Skills University ,Tarsali</item>
+        <item>Techno India University ,Kolkata</item>
+        <item>Teerthanker Mahaveer University ,Moradabad</item>
+        <item>Telangana University ,Nizamabad</item>
+        <item>TERI University ,New Delhi</item>
+        <item>Tezpur University ,Tezpur</item>
+        <item>Thapar Institute of Engineering and Technology ,Patiala</item>
+        <item>The English and Foreign Languages University ,Hyderabad</item>
+        <item>The IIS University ,Jaipur</item>
+        <item>The Indian Law Institute ,New Delhi</item>
+        <item>The LNM Institute of Information Technology ,Jaipur</item>
+        <item>The Maharaja Sayajirao University of Baroda ,Vadodara</item>
+        <item>The National University of Advanced Legal Studies ,Kochi</item>
+        <item>The Neotia University ,Sarisha</item>
+        <item>The Northcap University ,Gurgaon …</item>
+        <item>The Sanskrit College and University ,Kolkata</item>
+        <item>The West Bengal National University of Juridical Sciences ,Kolkata</item>
+        <item>Thiruvalluvar University ,Vellore</item>
+        <item>Thunchath Ezhuthachan Malayalam University ,Tirur</item>
+        <item>Tilak Maharashtra Vidyapeeth ,Pune</item>
+        <item>Tilka Manjhi Bhagalpur University ,Bhagalpur</item>
+        <item>TransDisciplinary University ,Bangalore</item>
+        <item>Tripura University ,Agartala</item>
+        <item>Tumkur University ,Tumkur</item>
+        <item>U.P. Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan ,Mathura</item>
+        <item>UKA Tarsadia University ,Surat</item>
+        <item>University of Agricultural and Horticultural Sciences, Shivamogga ,Shimoga</item>
+        <item>University of Agricultural Sciences, Bangalore ,Bangalore …</item>
+        <item>University of Agricultural Sciences, Dharwad ,Dharwad</item>
+        <item>University of Agricultural Sciences, Raichur ,Raichur</item>
+        <item>University of Allahabad ,Allahabad</item>
+        <item>University of Burdwan ,Bardhaman</item>
+        <item>University of Calcutta ,Kolkata</item>
+        <item>University of Calicut ,Tenhipalam …</item>
+        <item>University of Delhi ,New Delhi</item>
+        <item>University of Engineering and Management, Kolkata ,Kolkata</item>
+        <item>University of Gour Banga ,Malda</item>
+        <item>University of Horticultural Sciences, Bagalkot ,Bagalkot …</item>
+        <item>University of Hyderabad ,Hyderabad</item>
+        <item>University of Jammu ,Jammu</item>
+        <item>University of Kalyani ,Kalyani</item>
+        <item>University of Kashmir ,Srinagar</item>
+        <item>University of Kerala ,Thiruvananthapuram</item>
+        <item>University of Kota ,Kota</item>
+        <item>University of Lucknow ,Lucknow</item>
+        <item>University of Madras ,Chennai</item>
+        <item>University of Mumbai ,Mumbai</item>
+        <item>University of Mysore ,Mysore …</item>
+        <item>University of North Bengal ,Siliguri</item>
+        <item>University of Patanjali ,Haridwar</item>
+        <item>University of Petroleum and Energy Studies ,Dehradun</item>
+        <item>University of Rajasthan ,Jaipur</item>
+        <item>University of Science and Technology, Meghalaya ,Baridua</item>
+        <item>University of Solapur ,Solapur</item>
+        <item>University of Technology ,Jaipur</item>
+        <item>University of Technology and Management ,Shillong</item>
+        <item>Usha Martin University ,Ranchi</item>
+        <item>Utkal University ,Bhubaneswar</item>
+        <item>Utkal University of Culture ,Bhubaneswar</item>
+        <item>Uttar Banga Krishi Viswavidyalaya ,Pundibari</item>
+        <item>Uttar Pradesh University of Medical Sciences ,Saifai</item>
+        <item>Uttarakhand Aawasiya Vishwavidyalaya ,Almora</item>
+        <item>Uttarakhand Ayurved University ,Dehradun</item>
+        <item>Uttarakhand Technical University ,Dehradun</item>
+        <item>Uttarakhand University of Horticulture and Forestry ,Bharsar</item>
+        <item>Uttaranchal Sanskrit University ,Haridwar</item>
+        <item>Uttaranchal University ,Dehradun</item>
+        <item>Vasantrao Naik Marathwada Krishi Vidyapeeth ,Parbhani …</item>
+        <item>Veer Bahadur Singh Purvanchal University ,Jaunpur</item>
+        <item>Veer Kunwar Singh University ,Arrah</item>
+        <item>Veer Narmad South Gujarat University ,Surat</item>
+        <item>Veer Surendra Sai University of Technology ,Sambalpur</item>
+        <item>Vel Tech Dr.RR and Dr.SR Technical University ,Chennai …</item>
+        <item>Vels University ,Chennai</item>
+        <item>Vidyasagar University ,Midnapore</item>
+        <item>Vignan University ,Guntur</item>
+        <item>Vijayanagara Sri Krishnadevaraya University ,Bellary</item>
+        <item>Vikram University ,Ujjain</item>
+        <item>Vikrama Simhapuri University ,Nellore</item>
+        <item>Vinayaka Missions Sikkim University ,Gangtok</item>
+        <item>Vinayaka Missions University ,Salem</item>
+        <item>Vinoba Bhave University ,Hazaribag</item>
+        <item>Vishwakarma University ,Pune</item>
+        <item>Visva-Bharati University ,Santiniketan …</item>
+        <item>Visvesvaraya National Institute of Technology ,Nagpur</item>
+        <item>Visvesvaraya Technological University ,Belgaum</item>
+        <item>VIT Bhopal University ,Bhopal</item>
+        <item>VIT University ,Vellore </item>
+        <item>Vivekananda Global University ,Jaipur</item>
+        <item>West Bengal State University ,Barasat</item>
+        <item>West Bengal University of Animal and Fishery Sciences ,Kolkata</item>
+        <item>West Bengal University of Health Sciences ,Kolkata</item>
+        <item>West Bengal University of Teachers\' Training, Education Planning and Administration ,Kolkata</item>
+        <item>William Carey University, India ,Shillong</item>
+        <item>William Carey University, Meghalaya ,Shillong</item>
+        <item>Xavier University Bhubaneswar ,Harirajpur …</item>
+        <item>YBN University ,Ranchi</item>
+        <item>Yenepoya University ,Mangalore</item>
+        <item>YMCA University of Science and Technology ,Faridabad</item>
+    </string-array>
+    <string-array name="degress">
+        <item>A.A.</item>
+        <item>A.S.</item>
+        <item>BEP</item>
+        <item>CAP</item>
+        <item>Dip.Arts</item>
+        <item>Dip.Lang.Stud.</item>
+        <item>Dip.Lang</item>
+        <item>Dip.Soc.Sc.</item>
+        <item>Dip.Ed</item>
+        <item>Dip.Mus.</item>
+        <item>B.Arts</item>
+        <item>BSA</item>
+        <item>B.Acy.</item>
+        <item>B.Acc.</item>
+        <item>B.An.Vet.Bio.Sc.</item>
+        <item>B.A.Sc.</item>
+        <item>B.Arch.</item>
+        <item>B.B.A.</item>
+        <item>B.C.E.</item>
+        <item>B.Com.</item>
+        <item>B.Comm.</item>
+        <item>BCA</item>
+        <item>B.D.H</item>
+        <item>B.D.M.</item>
+        <item>B.D.Sc.</item>
+        <item>B.D.S.</item>
+        <item>B.Dent.</item>
+        <item>B.Des.</item>
+        <item>B.Des.Comp.</item>
+        <item>B.Des.Arch.</item>
+        <item>B.Ed.</item>
+        <item>B.E</item>
+        <item>B.E-COM.</item>
+        <item>B.E.E.</item>
+        <item>B.F.A.</item>
+        <item>B.Hlth.Sci</item>
+        <item>B.I.T.</item>
+        <item>B.I.G.S.</item>
+        <item>LL.B.</item>
+        <item>B.L.A.S.</item>
+        <item>B.Lib.</item>
+        <item>B.Lit.</item>
+        <item>B.Math</item>
+        <item>B.M.E.</item>
+        <item>B.Med.Sc.</item>
+        <item>M.B.</item>
+        <item>B.M.</item>
+        <item>B.Mus.Studies</item>
+        <item>B.N.</item>
+        <item>B.Pharm.</item>
+        <item>B.P.E.S.S.</item>
+        <item>B.Res.Ec.</item>
+        <item>B.Sc.</item>
+        <item>B.S.D.H</item>
+        <item>BS.EOH</item>
+        <item>BSN</item>
+        <item>B.S.L.S.</item>
+        <item>B.S.</item>
+        <item>B.Tech.</item>
+        <item>B.V.Sc.</item>
+        <item>B.V.A.</item>
+
+    </string-array>
+    <string-array name="degreepg">
+        <item>M.A.</item>
+        <item>M.B.A.</item>
+        <item>M.Com</item>
+        <item>MCA</item>
+        <item>M.Div.</item>
+        <item>M.Ed.</item>
+        <item>M.E.M.</item>
+        <item>M.E.D.M.</item>
+        <item>M.F.A.</item>
+        <item>M.I.A.</item>
+        <item>M.I.S.</item>
+        <item>LL.M.</item>
+        <item>MLS</item>
+        <item>MLA</item>
+        <item>M.M.</item>
+        <item>MPS</item>
+        <item>M.P.A.</item>
+        <item>M.P.H.</item>
+        <item>M.S.(UK)</item>
+        <item>M.Sc.</item>
+        <item>M.S.W.</item>
+        <item>M.S.F.</item>
+        <item>M.Tech.</item>
+        <item>ThM</item>
+        <item>AuD</item>
+        <item>DC</item>
+        <item>DDS</item>
+        <item>D.D.</item>
+        <item>Ed.D.</item>
+        <item>J.D.</item>
+        <item>LP.D.</item>
+        <item>D.M.D.</item>
+        <item>M.D.</item>
+        <item>DMin</item>
+        <item>Dr.mph.</item>
+        <item>D.M.A.</item>
+        <item>N.D.</item>
+        <item>D.N.P.</item>
+        <item>O.D.</item>
+        <item>D.O.</item>
+        <item>Pharm.D.</item>
+        <item>PhD</item>
+        <item>D.Phil</item>
+        <item>D.P.T.</item>
+        <item>D.P.T.</item>
+        <item>Psy.D.</item>
+        <item>DrPH</item>
+        <item>D.R.S.</item>
+        <item>D.Sc.</item>
+        <item>D.Th.</item>
+        <item>D.V.M.</item>
+    </string-array>
+    <string-array name="streamug">
+        <item>Computer science and engineering</item>
+        <item>Electronics and communication engineering,</item>
+        <item>Information technology</item>
+        <item>Mechanical engineering</item>
+        <item>Civil engineering</item>
+        <item>Mechatronics engineering</item>
+        <item>Electrical and electronics and engineering</item>
+        <item>Environmental engineering</item>
+        <item>Architecture and construction engineering</item>
+        <item>Highway engineering</item>
+        <item>Computer engineering</item>
+        <item>Mechanical engineering</item>
+        <item>Marine engineering</item>
+        <item>Automobile engineering</item>
+        <item>Aeronautical engineering</item>
+        <item>Aerospace engineering</item>
+        <item>Telecommunication engineering</item>
+        <item>Electronics and communication engineering</item>
+        <item>Agricultural engineering</item>
+        <item>Production and industrial engineering</item>
+        <item>Chemical engineering</item>
+        <item>Electrical engineering</item>
+        <item>Instrumental engineering</item>
+        <item>Mining engineering</item>
+        <item>Architectural</item>
+        <item>Biological Science</item>
+        <item>Bio-Medical</item>
+        <item>Biological engineering</item>
+        <item>Nuclear engineering</item>
+        <item>Systems engineering</item>
+    </string-array>
+
+    <string-array name="schools">
+        <item>Era International School, Anantapur</item>
+        <item>Global Wisdom International School, Chejerla</item>
+        <item>Hyderabad Public School, Kadapa</item>
+        <item>Little Angels Public School, Jaggayyapeta</item>
+        <item>Little Bells E.M High School, Nellore</item>
+        <item>Little Lights Free Education High School, Gannavaram</item>
+        <item>Loyola High School, Hindupur</item>
+        <item>Loyola High School, KD Peta</item>
+        <item>Loyola High School, Vinukonda</item>
+        <item>Loyola Public School, Guntur</item>
+        <item>Priyadarshini High School, Pithapuram</item>
+        <item>Ratnam Concept School, Nellore</item>
+        <item>Sainik School, Korukonda, Vizianagaram</item>
+        <item>Saint Charles English Medium High School, Chilakaluripet</item>
+        <item>St. John\'s High School, Amalapuram</item>
+        <item>St. Patrick\'s High School, Secunderabad</item>
+        <item>St. Xavier\'s College of Education, Hindupur</item>
+        <item>St. Xavier\'s High School, Darsi</item>
+        <item>Sasi Merit School, Bhimavaram</item>
+        <item>Satavahana College, Vijayawada</item>
+        <item>Sir C.R.Reddy High School, Eluru</item>
+        <item>SPNRC High School, Vijayawada</item>
+        <item>Sri Chaitanya Techno School, Eluru</item>
+        <item>Sri Sathya Sai Vidya Vihar, Visakhapatnam</item>
+        <item>Sri Vidya Nilayam High School, Eluru</item>
+        <item>Timpany School, Asilmetta, Visakhapatnam</item>
+        <item>Srikrishna Vidya Mandir, Visakhapatnam</item>
+        <item>V.B.R English Medium High School, Nellore</item>
+        <item>Vijnana Vihara School, Nutakki</item>
+        <item>Viswa Bharathi English Medium High School, Gudivada</item>
+        <item>Government Higher Secondary School, Bilat</item>
+        <item>Government Secondary School, Rani</item>
+        <item>Independent Golden Jubilee Government Higher Secondary School, Pasighat</item>
+        <item>Don Bosco High School, Guwahati</item>
+        <item>Faculty Higher Secondary School, Amingaon</item>
+        <item>Holy Child School Guwahati</item>
+        <item>Jawahar Navodaya Vidyalaya, Pailapool</item>
+        <item>Kendriya Vidyalaya 9th Mile, Guwahati</item>
+        <item>Kendriya Vidyalaya, Khanapara</item>
+        <item>Kendriya Vidyalaya Maligaon</item>
+        <item>St Francis de Sales School, Dhemaji</item>
+        <item>St. Mary\'s English High School, Guwahati</item>
+        <item>Sainik School, Goalpara</item>
+        <item>Spring Dale High School</item>
+        <item>Jorhat Govt. Boys\' H.S and M.P. School</item>
+        <item>Nalbari Govt Gurdon H.S School</item>
+        <item>Delhi Public School, Bhagalpur</item>
+        <item>Mount Assisi School</item>
+        <item>St. Joseph\'s School, Bhagalpur</item>
+        <item>St. Joseph\'s School, Pakartalla, Kahalgaon</item>
+        <item>Ark International School, Begusarai</item>
+        <item>B.L. Indo Anglian Public School, Aurangabad</item>
+        <item>Bivha International School</item>
+        <item>G.A Inter School, Hajipur</item>
+        <item>Jawahar Navodaya Vidyalaya, West Champaran</item>
+        <item>Jayant Academy, Raxaul</item>
+        <item>Jhajha Public School, Jhajha</item>
+        <item>Jyothi Central High School, Ekma</item>
+        <item>Khrist Raja High School, Bettiah</item>
+        <item>M P T High School, Jhanjharpur</item>
+        <item>Manas International Public School, Jehanabad</item>
+        <item>Progressive School Barh, Barh</item>
+        <item>Rose Public School, Darbhanga</item>
+        <item>Sainik School Gopalganj, Gopalganj</item>
+        <item>Sainik School Nalanda, Nalanda</item>
+        <item>St. Paul\'s High School, Hajipur</item>
+        <item>St. Xavier\'s Higher Secondary School, Bettiah</item>
+        <item>Sir Syed Memorial School, Gaya</item>
+        <item>Watson High School, Madhubani</item>
+        <item>Bhavan Vidyalaya, Chandigarh</item>
+        <item>Chandigarh Baptist School</item>
+        <item>Delhi Public School, Chandigarh</item>
+        <item>KB DAV Senior Secondary Public School</item>
+        <item>Mount Carmel School</item>
+        <item>St. Anne\'s Convent School, Chandigarh</item>
+        <item>St. John\'s High School</item>
+        <item>St. Joseph Senior Secondary School, Chandigarh</item>
+        <item>St. Mary\'s School, Chandigarh</item>
+        <item>St. Stephen\'s School, Chandigarh</item>
+        <item>Shivalik Public School, Mohali</item>
+        <item>St. Xavier\'s Senior Secondary School</item>
+        <item>Strawberry Fields World School</item>
+        <item>Vatika High School for Deaf  Dumb</item>
+        <item>Yadavindra Public School, Mohali</item>
+        <item>Assagao Union High School</item>
+        <item>Little Flower of Jesus High School</item>
+        <item>Loyola High School</item>
+        <item>Regina Mundi High School, Chicalim</item>
+        <item>Saint Britto High School, Mapusa</item>
+        <item>St. Britto\'s, Goa</item>
+        <item>St. Mary\'s Convent High School, Mapusa, Goa</item>
+        <item>SFX High School Siolim Goa</item>
+        <item>Sharada Mandir School, Panjim</item>
+        <item>Shree Damodar Higher Secondary School of Science</item>
+        <item>Adarsh Public School, Vikaspuri</item>
+        <item>Adarsh Shiksha Niketan School</item>
+        <item>Ahlcon International School</item>
+        <item>Air Force Bal Bharati School, Lodhi Road</item>
+        <item>Air Force Golden Jubilee Institute, Subroto Park</item>
+        <item>American Embassy School</item>
+        <item>Amity International School</item>
+        <item>Anglo Arabic Senior Secondary School, Ajmeri Gate</item>
+        <item>Apeejay Public School</item>
+        <item>Army Public School, Dhaula Kuan</item>
+        <item>Army Public School, Delhi Cantt</item>
+        <item>Bal Bhavan International School, Dwarka Sub City</item>
+        <item>Bal Bharati Public School</item>
+        <item>Balvantray Mehta Vidya Bhawan Anguridevi Shersingh</item>
+        <item>Bharti Public School</item>
+        <item>Bluebells School</item>
+        <item>Carmel Convent School</item>
+        <item>Convent of Jesus and Mary, New Delhi</item>
+        <item>Darbari Lal DAV Model School</item>
+        <item>Delhi Public School Dwarka</item>
+        <item>Delhi Public School Rohini</item>
+        <item>Delhi Public School, Mathura Road</item>
+        <item>Delhi Public School, R K Puram</item>
+        <item>Delhi Public School, Vasant Kunj</item>
+        <item>DTEA Senior Secondary School(s)</item>
+        <item>Delhi International School Dwarka</item>
+        <item>Don Bosco School</item>
+        <item>Doon Public School</item>
+        <item>Faith Academy, Delhi</item>
+        <item>G.B.S.S.School No.1,Shakti Nagar</item>
+        <item>G D Goenka Public School</item>
+        <item>Greenfields Senior Secondary School</item>
+        <item>Guru Harkishan Public School</item>
+        <item>Guru Nanak Public School</item>
+        <item>Gyan Bharati School, Saket</item>
+        <item>Holy Child Auxilium School, Vasant Vihar</item>
+        <item>Holy Cross School (Najafgarh)</item>
+        <item>Hope Hall Foundation School, R. K. Puram</item>
+        <item>The Indian Heights School, Dwarka</item>
+        <item>Kendriya Vidyalaya</item>
+        <item>Kerala School</item>
+        <item>Kulachi Hansraj Model School</item>
+        <item>Lady Irwin Senior Secondary School</item>
+        <item>Loreto Convent School, Delhi</item>
+        <item>Mater Dei School, New Delhi</item>
+        <item>Manav Sthali School</item>
+        <item>Manava Bharati India International School</item>
+        <item>Mann Public School</item>
+        <item>Modern School (New Delhi)</item>
+        <item>Mount Carmel School</item>
+        <item>N C Jindal Public School</item>
+        <item>Navy Children School, Chanakyapuri</item>
+        <item>New Era Public School, Mayapuri</item>
+        <item>Prabhu Dayal Public School</item>
+        <item>Presentation Convent Senior Secondary School, Delhi</item>
+        <item>R D Rajpal public school</item>
+        <item>Rajkiya Pratibha Vikas Vidyalaya, Shalimar Bagh, Delhi</item>
+        <item>Raisina Bengali Senior Secondary School, Gole Market, New Delhi</item>
+        <item>Rukmini Devi Public School, Pitampura, New Delhi</item>
+        <item>Sanskriti School</item>
+        <item>Sardar Patel Vidyalaya</item>
+        <item>Springdales School</item>
+        <item>Saint Giri Senior Secondary School</item>
+        <item>St. Columba\'s School</item>
+        <item>St. Francis De Sales School</item>
+        <item>St. Paul\'s School, New Delhi</item>
+        <item>St. John\'s Sr. Sec. School</item>
+        <item>St. Mark\'s Senior Secondary Public School</item>
+        <item>St. Mark\'s Senior Secondary School, Janakpuri</item>
+        <item>St. Thomas\' School (New Delhi)</item>
+        <item>St. Xavier\'s School, Delhi</item>
+        <item>St. Xavier\'s School, Rohini</item>
+        <item>Summer Fields School, New Delhi</item>
+        <item>The Air Force School (Subroto Park)</item>
+        <item>The Mother\'s International School</item>
+        <item>The Shri Ram School</item>
+        <item>Vasant Valley School</item>
+        <item>Bastar High School</item>
+        <item>DAV Public School, Bhillai</item>
+        <item>Delhi Public School, Bilaspur</item>
+        <item>Delhi Public School, Durg</item>
+        <item>DAV Public School, Nandini Mines</item>
+        <item>DAV Public School, Rajhara, Distt-Balod</item>
+        <item>Holy Cross Senior Secondary School Kapa</item>
+        <item>Jawahar Navodaya Vidyalaya, Basdei</item>
+        <item>Rajkumar College, Raipur</item>
+        <item>Royal Kids\' Convent</item>
+        <item>Sainik School, Ambikapur.</item>
+        <item>Ahmedabad International School</item>
+        <item>Best High School (Ahmedabad)</item>
+        <item>Delhi Public School, Bopal</item>
+        <item>Diwan-Ballubhai School</item>
+        <item>Doon International School (Ahmedabad)</item>
+        <item>Mahatma Gandhi International School Ahmedabad</item>
+        <item>Mount Carmel High School, Ahmedabad</item>
+        <item>Mount Carmel High School, Gandhinagar</item>
+        <item>Prakash Higher Secondary School</item>
+        <item>Saraswat School of Science, Ghatlodia</item>
+        <item>St. Ann\'s School, Ahmedabad</item>
+        <item>St. Xavier\'s High School Loyola Hall</item>
+        <item>St. Xavier\'s High School, Mirzapur</item>
+        <item>Sheth Chimanlal Nagindas Vidyalaya</item>
+        <item>Zydus School for Excellence</item>
+        <item>Rajkumar College, Rajkot</item>
+        <item>Baroda High School, Alkapuri</item>
+        <item>Navrachana School</item>
+        <item>Podar World School</item>
+        <item>Rosary High School</item>
+        <item>Ashadeep Group of Schools</item>
+        <item>St. Xavier\'s High School, Surat</item>
+        <item>A. G. High School</item>
+        <item>Alfred High School, Bhuj</item>
+        <item>Alfred High School, Rajkot</item>
+        <item>Crescent National High School (Gujarat)</item>
+        <item>Pioneer High School, Anand</item>
+        <item>Rajratan Purshotoom Tribhuvandas Patel High School</item>
+        <item>St. Francis of Assisi Convent High School</item>
+        <item>St. Xavier\'s, Adipur</item>
+        <item>Saraswati International School</item>
+        <item>Apollo International School, Sonipat</item>
+        <item>Campus School CCS HAU, Hisar</item>
+        <item>Gita Niketan Awasiya Vidyalaya, Kurukshetra</item>
+        <item>Hardayal Public School, Bahadurgarh</item>
+        <item>Motilal Nehru School of Sports, Rai</item>
+        <item>Rishikul Vidyapeeth, Sonipat</item>
+        <item>Bharti International Convent School</item>
+        <item>Gurugram Public School</item>
+        <item>Shalom Hills International School</item>
+        <item>The Shri Ram School</item>
+        <item>SCR Public School</item>
+        <item>Heritage Xperiential Learning School</item>
+        <item>Kendriya Vidyalaya AFS Gurgaon</item>
+        <item>Lancers International School</item>
+        <item>Delhi International Convent School</item>
+        <item>Apeejay School, Sector 15, Faridabad</item>
+        <item>Carmel Convent School, Sector 7D, Faridabad</item>
+        <item>DAV Public School (Dayanand Anglo Vedic Public School), Ballabhgarh, Faridabad</item>
+        <item>DAV Public School (Dayanand Anglo Vedic Public School), Sector 14, Faridabad</item>
+        <item>DAV Public School, Sector 37, Faridabad</item>
+        <item>Delhi Public School, Sector 19, Faridabad</item>
+        <item>Eicher School, Sector 46, Faridabad</item>
+        <item>Faridabad Model School, Sector 31, Faridabad</item>
+        <item>Holy Child Public School. Sector 29, Faridabad</item>
+        <item>Modern Vidya Niketan</item>
+        <item>Ryan International School</item>
+        <item>SOS Hermann Gmeiner School, Sector 29, Faridabad</item>
+        <item>Vidya Sanskar - International School for Holistic Learning, Village Bhopani</item>
+        <item>The Modern School, Faridabad. BPTP Parklands, Sector 85, Faridabad</item>
+        <item>Apeejay School, Sector 15</item>
+        <item>Carmel Convent School, Sector 7D</item>
+        <item>Delhi Public School, Sector 19</item>
+        <item>Eicher School, Sector 46</item>
+        <item>Modern Vidya Niketan schools (multiple locations in Faridabad)</item>
+        <item>Ryan International School</item>
+        <item>SOS Hermann Gmeiner School, Sector 29</item>
+        <item>Vidya Sanskar International School, Village Bhopani</item>
+        <item>Alpine Public School, Nalagarh, Himachal Pradesh</item>
+        <item>Army Public School, Dagshai</item>
+        <item>Auckland School Shimla</item>
+        <item>Bhartiya Public Senior Secondary School, Joginder Nagar</item>
+        <item>Bishop Cotton School</item>
+        <item>Chail Military School</item>
+        <item>Chinmaya Vidyalaya Nauni</item>
+        <item>D.A.V. Centenary Public School, Mandi</item>
+        <item>Dalhousie Hilltop School, Dalhousie</item>
+        <item>Him Academy Public School, Hamirpur</item>
+        <item>Indus World School, Mandi</item>
+        <item>International Sahaja Public School</item>
+        <item>Jawahar Navodaya Vidyalaya, Theog</item>
+        <item>Lawrence School, Sanawar, Kasauli</item>
+        <item>Loreto Convent, Tara Hall, Shimla</item>
+        <item>Pinegrove School</item>
+        <item>Sacred Heart High School, Dharamshala</item>
+        <item>St. Edward\'s School, Shimla</item>
+        <item>St. Luke\'s Senior Secondary School</item>
+        <item>St. Mary\'s Convent School, Kasauli</item>
+        <item>Shimla Public School, Shimla</item>
+        <item>V. R. Senior Secondary Public School, Baddi</item>
+        <item>BSF Senior Secondary School, Jammu</item>
+        <item>Burn Hall School, Srinagar</item>
+        <item>Christ School, Poonch</item>
+        <item>Delhi Public School, Srinagar</item>
+        <item>Dr A.G.M\'s City School, Srinagar</item>
+        <item>Druk White Lotus School, Shey, Ladakh</item>
+        <item>Green Valley Educational Institute</item>
+        <item>KC International School</item>
+        <item>Lal Ded Memorial School</item>
+        <item>Little Angels High School, Srinagar</item>
+        <item>Mallinson Girls School, Srinagar</item>
+        <item>Nawaz Public Higher Secondary School Palam Rajauri</item>
+        <item>Presentation Convent Higher Secondary School, Srinagar</item>
+        <item>Presentation Convent Senior Secondary School, Jammu</item>
+        <item>Sainik School, Manasbal</item>
+        <item>Sainik School, Nagrota</item>
+        <item>St. Joseph\'s School, Baramulla</item>
+        <item>St. Peter\'s High School, Jammu</item>
+        <item>Sharon Public Higher Secondary School, Ambedkar Colony, Rount, Udhampur</item>
+        <item>SMD High School</item>
+        <item>Sri Pratap Higher Secondary School</item>
+        <item>Tyndale Biscoe School, Srinagar</item>
+        <item>Bishop Westcott Boys\' School, Ranchi</item>
+        <item>Bokaro Public School</item>
+        <item>Carmel School Digwadih, Dhanbad</item>
+        <item>Chasnalla Academy, Chasnalla</item>
+        <item>DAV Centenary Public School, Bhawanathpur Township</item>
+        <item>De Nobili School, Bhuli, Dhanbad</item>
+        <item>De Nobili School, CMRI, Dhanbad</item>
+        <item>De Nobili School CTPS, Bokaro, Chandrapura</item>
+        <item>De Nobili School, FRI, Digwadih, Dhanbad</item>
+        <item>De Nobili School, Maithon, Dhanbad</item>
+        <item>De Nobili School, Mugma, Dhanbad</item>
+        <item>De Nobili School, Sijua</item>
+        <item>De Nobili School, Sindri, Dhanbad</item>
+        <item>Delhi Public School, Bokaro</item>
+        <item>Delhi Public School, Dhanbad</item>
+        <item>Delhi Public School, Ranchi</item>
+        <item>Jawahar Vidya Mandir, Shyamali, Ranchi</item>
+        <item>Loyola School, Jamshedpur</item>
+        <item>The Pentecostal Assembly School, Bokaro</item>
+        <item>St. Anthony\'s School, Ranchi</item>
+        <item>St. Thomas School, Ranchi</item>
+        <item>St. John\'s High School, Ranchi</item>
+        <item>St. Xavier\'s School, Bokaro</item>
+        <item>St. Xavier\'s School, Ranchi</item>
+        <item>Sree Ayyappa Public School, Bokaro Steel City</item>
+        <item>Surendranath Centenary School, Dipatoli, Ranchi</item>
+        <item>Vikas Vidyalaya, Ranchi</item>
+        <item>Jain International Residential School, Bangalore</item>
+        <item>Loyola Pre-University College, Manvi, Raichur</item>
+        <item>Loyola School PU College, Mundgod</item>
+        <item>Loyola Yomiuri School, Bijapur</item>
+        <item>Nutan Vidyalaya Education Society, Gulbarga</item>
+        <item>St. Aloysius College, Mangalore</item>
+        <item>St. Aloysius PU College, Harihar</item>
+        <item>St. Joseph School, Anekal</item>
+        <item>St. Joseph\'s PU College, Anekal</item>
+        <item>St. Joseph\'s School, Hassan</item>
+        <item>St. Paul\'s School, Belgaum</item>
+        <item>St. Mary\'s School, Belgaum</item>
+        <item>St. Xavier\'s PU College, Gulbarga</item>
+        <item>Vidyashilp Academy, Bangalore</item>
+        <item>Xavier School, Manvi, Raichur</item>
+        <item>A.G.R.M Higher Secondary School, Vallikunnam</item>
+        <item>Aji Senior Secondary School, Uppala</item>
+        <item>AKJM Public School, Kanjirappally, Kottayam</item>
+        <item>A. L. P. School Kokkadavil</item>
+        <item>Anjarakandy Higher Secondary School</item>
+        <item>Ansar English School, Thrissur</item>
+        <item>Arya Bharati High School, Omallur</item>
+        <item>Auxilium ISC School, Kottiyam</item>
+        <item>Basel Evangelical Mission Parsi High School, Thalassery</item>
+        <item>BEM High School, Parappanangadi</item>
+        <item>Bishop Moore Vidyapith, Cherthala</item>
+        <item>BMM English Medium School, Pampady</item>
+        <item>Brook International School, Sasthamcotta</item>
+        <item>Chaldean Syrian Higher Secondary School, Thrissur</item>
+        <item>The Charter School, Pukkattupady, Kochi</item>
+        <item>The Charter School, Trivandrum</item>
+        <item>Chinmaya Vidyalaya, Kozhikode</item>
+        <item>CVKM Higher Secondary School</item>
+        <item>Global Public School, Cochin</item>
+        <item>Govt. Ganapath High School for Boys</item>
+        <item>Hari Sri Vidya Nidhi School</item>
+        <item>Holy Angels\' ISC School, Trivandrum</item>
+        <item>Infant Jesus Anglo-Indian Higher Secondary School, Kollam</item>
+        <item>John Joseph Murphy Memorial Higher Secondary School, Yendayar</item>
+        <item>Kendriya Vidyalaya, Pangode</item>
+        <item>Lemer Public School</item>
+        <item>Loyola School, Trivandrum</item>
+        <item>MMHSS Thalassery, Thalassery</item>
+        <item>Montfort School, Anakkara</item>
+        <item>Mount Carmel Convent Anglo-Indian Girls High School, Kollam</item>
+        <item>Nirmala Higher Secondary School, Muvattupuzha</item>
+        <item>Nirmala Higher Secondary School, Chemperi</item>
+        <item>Rajarshi Memorial Higher Secondary School</item>
+        <item>Sacred Heart Girls High School</item>
+        <item>Sainik School, Kazhakootam</item>
+        <item>St. Augustine\'s Higher Secondary School, Karimkunnam</item>
+        <item>St. Francis Sales Central School</item>
+        <item>St. Joseph\'s Convent School, Kalpetta</item>
+        <item>St Joseph\'s Higher Secondary School, Thalassery</item>
+        <item>St. Mary\'s Residential Central School</item>
+        <item>St. Michael\'s School, Kannur</item>
+        <item>St Peters School, Kadayiruppu</item>
+        <item>St Stephens School, Pathanapuram</item>
+        <item>St. Thomas Convent School, Palakkad</item>
+        <item>Seventh-day Adventist Higher Secondary School, Kochi</item>
+        <item>Technical Higher Secondary School, Cherthala</item>
+        <item>Udyogamandal School</item>
+        <item>Vidyadhiraja Vidya Bhavan Higher Secondary School, Aluva</item>
+        <item>Army Public School, Mhow</item>
+        <item>Campion School Bhopal, Madhya Pradesh</item>
+        <item>Christ Church Boys Senior Secondary School</item>
+        <item>Delhi Public School, Bhopal</item>
+        <item>Gyankriti School, Indore</item>
+        <item>Himalaya International School, Ratlam</item>
+        <item>Little Angels High School, Gwalior</item>
+        <item>Kendriya Vidyalaya No. 1 (Shift I  II), 2, 3, 4 and 5, Gwalior</item>
+        <item>Kendriya Vidyalaya Guna, Madhya Pradesh</item>
+        <item>Kendriya Vidyalaya Shivpuri, Madhya Pradesh</item>
+        <item>Kiddy\'s Corner School, Gwalior</item>
+        <item>Mahesh Memorial Public Higher Secondary School, Bagh</item>
+        <item>Rajeev Gandhi Memorial Boarding School, Sheopur</item>
+        <item>St. Aloysius Senior Secondary School</item>
+        <item>St. Francis Higher Secondary School, Pithampur</item>
+        <item>St. Joseph\'s Convent School, Bhopal</item>
+        <item>St.Paul Higher Secondary School, Indore</item>
+        <item>St. Raphael\'s Girls\' Higher Secondary School, Indore</item>
+        <item>Sanskaar Valley School, Bhopal</item>
+        <item>Vidya Niketan School, Chhindwara</item>
+        <item>United Mission School (1832)</item>
+        <item>St John\'s High School (1854)</item>
+        <item>Sacred Heart Girls\' High School (1854) [1]</item>
+        <item>Goodwill\'s Girls School (1855)</item>
+        <item>St. Joseph\'s Boys\' High School (1858)</item>
+        <item>Bishop Cotton Boys\' School (1865)</item>
+        <item>Bishop Cotton Girls\' School (1865)</item>
+        <item>Cathedral High School (1866)</item>
+        <item>Baldwin Boys\' High School (1880)</item>
+        <item>Baldwin Girls\' High School (1880)</item>
+        <item>St. Francis Xavier Girls\' High School (1889) [2]</item>
+        <item>St. Joseph\'s Indian High School (1904)</item>
+        <item>St Anthony\'s Boys\' School (1913)</item>
+        <item>Clarence High School (1914)</item>
+        <item>National High School (1917)</item>
+        <item>St. Germain High School (1944)</item>
+        <item>Bangalore Military School (1946)</item>
+        <item>Sophia High School (1949)</item>
+        <item>New Arvind Memorial English School</item>
+        <item>Auden High School, Banashankari</item>
+        <item>Bangalore Education Society, Malleswaram</item>
+        <item>Bangalore School of Speech and Drama</item>
+        <item>Bethany High</item>
+        <item>Canadian International School, Bangalore</item>
+        <item>Candor International School</item>
+        <item>Carmel Convent School</item>
+        <item>Carmel High School, Basaveshwaranagar</item>
+        <item>Christ School</item>
+        <item>Chrysalis High</item>
+        <item>Charan\'s Public School, Ulsoor</item>
+        <item>Cluny Convent High School, Malleswaram</item>
+        <item>Cluny Convent High School, Jalahalli</item>
+        <item>Daffodils English School, Sanjaynagar</item>
+        <item>Delhi Public School, Bangalore North</item>
+        <item>Delhi Public School, Bangalore South</item>
+        <item>Eastern Fare Music Foundation</item>
+        <item>Ebenezer International School</item>
+        <item>Ekya Schools, Bangalore</item>
+        <item>Fatima Nursery, Primary  High School</item>
+        <item>Gitanjali International School</item>
+        <item>Greenwood High International School, Varthur Sarjapur Road</item>
+        <item>HMR International School, Bangalore</item>
+        <item>Innisfree House School</item>
+        <item>Indus International School, Bangalore</item>
+        <item>Inventure Academy</item>
+        <item>Jain Heritage School</item>
+        <item>Jain International Residential School</item>
+        <item>Jyothy Kendriya Vidyalaya</item>
+        <item>Kendriya Vidyalaya Hebbal</item>
+        <item>Kendriya Vidyalaya, Jalahalli</item>
+        <item>Kendriya Vidyalaya, Malleswaram</item>
+        <item>Kensri School, Hebbal</item>
+        <item>Little Flower Public School</item>
+        <item>Malleswaram Ladies Association</item>
+        <item>Mallya Aditi International School</item>
+        <item>Mysore Education Society Kishora Kendra School</item>
+        <item>National Hill View Public School</item>
+        <item>National Public School, Indiranagar</item>
+        <item>National Public School, Rajajinagar</item>
+        <item>National Public School, Koramangala</item>
+        <item>National Public School, Banashankari</item>
+        <item>National Academy For Learning</item>
+        <item>Oakridge International School</item>
+        <item>Presidency School</item>
+        <item>Primus Public School</item>
+        <item>Sindhi High School, Hebbal</item>
+        <item>Sri Aurobindo Memorial School</item>
+        <item>St. Joseph\'s High School, Briand Square,Bangalore</item>
+        <item>St. Joseph\'s Pre-University College, Bangalore</item>
+        <item>St. Patrick\'s Academy, Sarjapur Road, Bangalore</item>
+        <item>St. Paul\'s English School</item>
+        <item>Swargarani School</item>
+        <item>TRIO World Academy, Hebbal]</item>
+        <item>The Brigade School WhiteFeild,JP Nagar</item>
+        <item>The Frank Anthony Public School, Bangalore</item>
+        <item>The International School Bangalore</item>
+        <item>The Valley School</item>
+        <item>Treamis World School, Electronic City</item>
+        <item>Vaatsalya Public School</item>
+        <item>Venkat International Public School</item>
+        <item>Vibgyor High School</item>
+        <item>Vidyashilp Academy</item>
+        <item>Vijaya High school</item>
+        <item>Vidyaniketan Public School</item>
+        <item>Vidyashilp Academy</item>
+        <item>DAV Public School</item>
+        <item>Don Bosco High School, Imphal</item>
+        <item>Hamai English High School</item>
+        <item>Ideal English School</item>
+        <item>Jawahar Navodaya Vidyalaya, Pfukhro Mao</item>
+        <item>Johnstone Higher Secondary School, Imphal</item>
+        <item>Little Flower School</item>
+        <item>Padma Ratna English School</item>
+        <item>Sainik School, Imphal</item>
+        <item>St. Joseph\'s School, Imphal</item>
+        <item>Christian Girls\' Higher Secondary School, Tura</item>
+        <item>Don Bosco Technical School, Shillong</item>
+        <item>St. Anthony\'s Higher Secondary School, Shillong</item>
+        <item>Bethel Mission School, Champhai</item>
+        <item>Government Higher Secondary School, Serchhip</item>
+        <item>Home Missions School, Aizawl</item>
+        <item>Nuchhungi English Medium School, Hnahthial</item>
+        <item>Synod Higher Secondary School, Aizawl</item>
+        <item>Don Bosco Higher Secondary School</item>
+        <item>Edith Douglas Higher Secondary School</item>
+        <item>Immanuel School Zunheboto</item>
+        <item>Sainik School, Punglwa</item>
+        <item>Bharath English High School</item>
+        <item>Jawahar Navodaya Vidyalaya</item>
+        <item>Lycée français de Pondichéry</item>
+        <item>Petit Seminaire Higher Secondary School</item>
+        <item>Dasmesh Public School, Faridkot</item>
+        <item>Delhi Public School, Bathinda</item>
+        <item>Eastwood International School, Mullanpur Dakha</item>
+        <item>Guru Teg Bahadur Khalsa Senior Secondary School, Malout</item>
+        <item>La Foundation School, Sangrur</item>
+        <item>Mata Jaswant Kaur Memorial School, Badal</item>
+        <item>Mount Litera Zee School, Moga</item>
+        <item>National High School, Patiala</item>
+        <item>Our Lady Of Fatima Convent Secondary School, Paliata</item>
+        <item>Ryan International School, Patiala</item>
+        <item>Saint Francis High School, Amritsar</item>
+        <item>Shivalik Public School, Mohali</item>
+        <item>Delhi Public School Khariar Road</item>
+        <item>Astarang high school, Astarang</item>
+        <item>Aparna World School</item>
+        <item>Aditya Birla Public School, Rayagada</item>
+        <item>Badagada Government High School, Bhubaneswar</item>
+        <item>Balangir Public School, Balangir</item>
+        <item>Bhargabi High School, Puri district</item>
+        <item>Blessed Sacrament High School, Puri</item>
+        <item>Capital High School, Bhubaneswar</item>
+        <item>Carmel School, Rourkela</item>
+        <item>Chinmaya Vidyalaya, Rourkela</item>
+        <item>D.A.V. Public School, Chandrasekharpur, Bhubaneswar</item>
+        <item>Dabugaon Girls High School, Nabarangpur</item>
+        <item>DAV Public School, Rourkela</item>
+        <item>DAV Public School, Unit-8, Bhubaneswar</item>
+        <item>DAV Public School, Cuttack</item>
+        <item>Deepika English Medium School, Rourkela</item>
+        <item>Delhi Public School, Rourkela</item>
+        <item>Demonstration Multipurpose School, Bhubaneswar</item>
+        <item>Desouza\'s School, Rourkela</item>
+        <item>Doon International School (Bhubaneswar)</item>
+        <item>G.C.D. High School, Rayagada</item>
+        <item>Government High School, Uditnagar, Rourkela</item>
+        <item>Govt. Girls\' High School, Rayagada</item>
+        <item>Govt. High School, Mathili</item>
+        <item>Govt. B.N.High School, Padmapur</item>
+        <item>Harobino Vidya Bhavan</item>
+        <item>Ispat English Medium School, Rourkela</item>
+        <item>Jawahar Navodaya Vidyalaya, Bagudi</item>
+        <item>Jawahar Navodaya Vidyalaya, Mundali</item>
+        <item>Jawahar Navodaya Vidyalaya, Narla</item>
+        <item>Jobra High School, Cuttack</item>
+        <item>Kendriya Vidyalaya No.1 Bhubaneswar</item>
+        <item>Kendriya Vidyalaya, Charbatia, Cuttack</item>
+        <item>Kendriya Vidyalaya, Sundargarh</item>
+        <item>Khariar Public School, Khariar</item>
+        <item>KIIT International School, Bhubaneswar</item>
+        <item>Little Angels\' Senior Secondary School, Brajrajnagar</item>
+        <item>Loyola School, Baripada</item>
+        <item>Loyola School, Bhubaneswar</item>
+        <item>M.N High School, Pattamundai</item>
+        <item>Maharaja High School, Sonepur</item>
+        <item>MahaRaja\'s Boys\' High School, Paralakhemundi</item>
+        <item>Mahatma Gandhi High School, Sheragada</item>
+        <item>Matrusree Anglo Vedic School, Berhampur</item>
+        <item>MGM English Medium School, Rourkela</item>
+        <item>Montfort School Kansbahal</item>
+        <item>Puri Zilla School, Puri</item>
+        <item>Raja Basudev High School, Debagarh</item>
+        <item>Ravenshaw Collegiate School, Cuttack</item>
+        <item>Sai International School Bhubaneswar</item>
+        <item>SAI International Residential School Bhubaneswar</item>
+        <item>Sainik School, Bhubaneswar</item>
+        <item>Sandeepani Vidyapeeth, Balasore</item>
+        <item>Saraswati Vidya Mandir (Rourkela)</item>
+        <item>SDMT Prabhavati Public School, Titilagarh</item>
+        <item>Secondary Board High School, Cuttack</item>
+        <item>Sri Aurobindo School, Sambalpur</item>
+        <item>Sri Aurobindo\'s Rourkela School, Rourkela</item>
+        <item>St Anne\'s Convent School, Baripada</item>
+        <item>St. Joseph\'s Convent Higher Secondary School, Sambalpur</item>
+        <item>St. Joseph\'s Convent School, Sundergarh</item>
+        <item>St. Joseph\'s School, Kendrapara</item>
+        <item>St. Lawrence School, Tentoloi, Angul</item>
+        <item>St. Mary\'s Higher Secondary School, Jharsuguda</item>
+        <item>St. Vincent\'s Convent School, Balasore</item>
+        <item>St. Vincent\'s Convent School, Brahmapur</item>
+        <item>St. Xavier\'s High School, Rayagada</item>
+        <item>Stewart School, Cuttack</item>
+        <item>Subalaya High School, Subalaya</item>
+        <item>Vignan Vidyalaya, Rayagada</item>
+        <item>Vikash Convent School, Karanjia</item>
+        <item>Zilla School, Sambalpur</item>
+        <item>St.angela sophia school</item>
+        <item>Calorx Public School</item>
+        <item>Jaipur School</item>
+        <item>Jawahar Navodaya Vidyalaya</item>
+        <item>Gyan Vihar School</item>
+        <item>Gayatri Sriram Public School</item>
+        <item>India International School</item>
+        <item>Warren Academy Day Boarding School</item>
+        <item>Mahaveer School</item>
+        <item>Maheshwari Public School</item>
+        <item>Mayura School</item>
+        <item>Modi School</item>
+        <item>jayshree periwal group of schools (multiple locations)</item>
+        <item>Sanskar School,Jaipur</item>
+        <item>St. Anselm\'s North City School</item>
+        <item>St. Anselm\'s Pink City Sr. Sec. School</item>
+        <item>St. Xavier\'s School</item>
+        <item>Tilak Public School, Jaipur</item>
+        <item>Bhartiya Vidya Bhavan Vidyashram, Jaipur</item>
+        <item>Bhartiya Vidya Bhavan Vidyashram-Pratapnagar, Jaipur</item>
+        <item>Jaipuria Vidyalaya, JLN Marg, Jaipur</item>
+        <item>St. Edmund\'s School Malviya Nagar Jaipur</item>
+        <item>Rawat Public School, Pratap Nagar, Jaipur</item>
+        <item>Seedling Public School</item>
+        <item>VSI International School</item>
+        <item>St. Francis\' School, Jorethang</item>
+        <item>St. Xaviers School, Pakyong</item>
+        <item>Taktse International School</item>
+        <item>Tashi Namgyal Academy</item>
+        <item>A.R.L.M. Matriculation Higher Secondary School, Cuddalore</item>
+        <item>Aiyas Matriculation Higher Secondary School, Thirukkalachery, Nagapattinam District</item>
+        <item>Akshararbol International School, Chennai, T-nagar</item>
+        <item>AKT Academy Matriculation Higher Secondary School, Kallakurichi</item>
+        <item>American College Higher Secondary School, Madurai</item>
+        <item>American International School Chennai</item>
+        <item>Balavihar Matriculation Higher Secondary School, Panruti</item>
+        <item>Bapuji Memorial School, Kanyakumari</item>
+        <item>Bethlahem Matric School, Karungal</item>
+        <item>Bharathi Matriculation Higher Secondary School, Kallakurichi</item>
+        <item>Bharathiar Government Higher Secondary School, Veeravanallur</item>
+        <item>Breeks Memorial School, Charing Cross, Ooty</item>
+        <item>Campion Anglo-Indian Higher Secondary School, Trichy</item>
+        <item>Carmel High School, Nagercoil</item>
+        <item>Carmel Higher Secondary School, Nagercoil</item>
+        <item>Chennai Public School, Chennai</item>
+        <item>Christhu Jyothi Matric Higher Secondary School, Erode</item>
+        <item>De Britto Higher Secondary School, Devakottai</item>
+        <item>G. K. Shetty Hindu Vidyalaya Matriculation Higher Secondary School</item>
+        <item>G V School, Chidambaram</item>
+        <item>Good Shepherd International School, Ooty</item>
+        <item>Government Higher Secondary School, Peruvilai</item>
+        <item>GRG Matriculation Higher Secondary School, Coimbatore</item>
+        <item>Hajee Meera Academy</item>
+        <item>Hebron School, Ooty</item>
+        <item>Hindu Senior Secondary School, Indira Nagar</item>
+        <item>International Community School and Junior College, Kotagiri</item>
+        <item>John Paul Higher Secondary School, Dindigul</item>
+        <item>Kendriya Vidyalaya, Aruvankadu, Ooty</item>
+        <item>Kendriya Vidyalaya, Indunagar, Ooty</item>
+        <item>Kings Matriculation Higher Secondary School, Madipakkam</item>
+        <item>The Laidlaw Memorial School and Junior College, Ketti, Ooty</item>
+        <item>Lakshmi School, Madurai</item>
+        <item>Lawrence School, Lovedale, Ooty</item>
+        <item>Lisieux Matriculation Higher Secondary School, Coimbatore</item>
+        <item>Loyola Academy, Maraimalai Nagar, Chennai</item>
+        <item>Loyola Higher Secondary School, Kuppayanallur</item>
+        <item>Mahajana High School, Erode</item>
+        <item>Maharajapuram Nagammal Rajaiah Desiya Girls Higher Secondary School</item>
+        <item>Mahatma Montessori Matriculation Higher Secondary School</item>
+        <item>Maria Rafols School, Kanyakumari</item>
+        <item>MCTM Chidambaram Chettyar International IB School, Chennai</item>
+        <item>Morning Star Higher Secondary School, Mica Mount, Gudalur</item>
+        <item>Mrs. Bullmore School, Coonoor</item>
+        <item>MSP Solai Nadar Memorial Higher Secondary school, Dindigul</item>
+        <item>National Higher Secondary School Mannargudi</item>
+        <item>New Prince Matriculation Higher Secondary School, Chennai</item>
+        <item>P.S. Higher Secondary School, Chennai</item>
+        <item>Perks Matriculation Higher Secondary School, Coimbatore</item>
+        <item>Ponnu Matriculation Higher Secondary School, Dharapuram</item>
+        <item>R. S. Krishnan Higher Secondary School</item>
+        <item>Railway Colony Municipal Higher Secondary School</item>
+        <item>Railway Mixed Higher Secondary School, Golden Rock, Tiruchirappalli</item>
+        <item>Rice City Matriculation Higher Secondary School</item>
+        <item>Sacred Heart Matriculation School, Kayyunni, Gudalur</item>
+        <item>Sainik School, Amaravathinagar</item>
+        <item>St. Antony\'s Higher Secondary School, Sholavandan</item>
+        <item>St. Antony\'s Higher Secondary School, Thanjavur</item>
+        <item>St. Antony\'s Matriculation Higher Secondary School, Srivilliputhur</item>
+        <item>St. Arul Anandar School, Oriyur</item>
+        <item>St. George\'s School, Chennai</item>
+        <item>St. Joseph\'s Boys School, Coonoor</item>
+        <item>St. Joseph Boys Higher Secondary School, Trichy</item>
+        <item>St. Joseph\'s Matriculation Higher Secondary School, Coimbatore</item>
+        <item>St. Joseph\'s Higher Secondary School, Ooty</item>
+        <item>St. Jude\'s Public School Junior College, Kotagiri</item>
+        <item>St. Mary\'s Anglo-Indian Higher Secondary School, Chennai</item>
+        <item>St. Mary\'s Higher Secondary School, Dindigul</item>
+        <item>St. Mary’s Higher Secondary School, Madurai</item>
+        <item>St. Mary\'s Higher Secondary School, Vickramasingapuram</item>
+        <item>St. Patrick\'s Anglo Indian Higher Secondary School, Chennai</item>
+        <item>St. Paul\'s Matriculation Higher Secondary School, Neyveli</item>
+        <item>St. Xavier\'s Higher Secondary School, Palayamkottai</item>
+        <item>St. Xavier\'s Higher Secondary School, Thoothukudi</item>
+        <item>SBOA School  Junior College, Chennai</item>
+        <item>Seth Bhaskar Matriculation Higher Secondary School, Ambattur</item>
+        <item>Sethupathi Higher Secondary School, Madurai</item>
+        <item>Sishya School, Chennai</item>
+        <item>SMB Matriculation School, Dindigul</item>
+        <item>SMSV. Hr. Sec School</item>
+        <item>South Street Hindu Nadar Higher Secondary School</item>
+        <item>Sri Raasi Vinayaga school</item>
+        <item>Stanes Anglo Indian Higher Secondary School, Coimbatore</item>
+        <item>Stanes Anglo Indian Higher Secondary School, Coonoor</item>
+        <item>Sundravalli Memorial School</item>
+        <item>Tansri Ubaidulla Matriculation Higher Secondary School, Rajaghiri</item>
+        <item>Thambu Higher Secondary School, Coimbatore</item>
+        <item>Town Higher Secondary School, Kumbakonam</item>
+        <item>Trinity Academy, Namakkal</item>
+        <item>Valliammal Matriculation Higher Secondary School</item>
+        <item>Velankanni Matriculation And Higher Secondary School</item>
+        <item>Vellayan Chettiyar Higher Secondary School</item>
+        <item>Vivekananda Memorial Matriculation School, Ooty</item>
+        <item>Woodside School, Ooty</item>
+        <item>Abhyas School, Thorrur, Warangal</item>
+        <item>Abhyasa Residential Public School, Toopran, Medak District</item>
+        <item>Andhra Mahila Sabha School of Informatics, Hyderabad</item>
+        <item>Andhra Pradesh Residential School, Sarvail, Nalgonda</item>
+        <item>A.P.T.W.R School, Eturnagaram</item>
+        <item>Asafia School, Hyderabad</item>
+        <item>CHIREC International, Hyderabad</item>
+        <item>Dr. S. Hussain Zaheer Memorial High School</item>
+        <item>Gitanjali Senior School, Begumpet</item>
+        <item>Goodmorning Grammar High School, Karimnagar</item>
+        <item>Gowtham Model School, Hyderabad</item>
+        <item>Green Gables International School, Hyderabad</item>
+        <item>Hyderabad Public School</item>
+        <item>Indus International School-Hyderabad</item>
+        <item>International School of Hyderabad</item>
+        <item>Jovial High School, Yacharam</item>
+        <item>Kakatiya High School, Nizamabad</item>
+        <item>Krishi Public School, Sathupalli</item>
+        <item>Lakshanika International School</item>
+        <item>Little Flower High School, Hyderabad</item>
+        <item>Loyola High School, Karimnagar</item>
+        <item>Nagarjuna High School, Warangal</item>
+        <item>Nasr School, Hyderabad</item>
+        <item>Open Minds - A Birla School, Kollur, near Gachibowli, Hyderabad</item>
+        <item>Panchavati High School, Secunderabad</item>
+        <item>Ravitheja Residential High School, Nagarkurnool</item>
+        <item>St. Ann\'s High School, Secunderabad</item>
+        <item>St. George\'s Grammar School</item>
+        <item>St John\'s Church High School, Secunderabad</item>
+        <item>St. Patrick\'s High School, Secunderabad</item>
+        <item>St. Paul\'s High School, Hyderabad</item>
+        <item>St. Thomas (SPG) Boys\' High School</item>
+        <item>St. Xavier\'s High School, Suryapet</item>
+        <item>Vidyaranya High School, Saifabad</item>
+        <item>Walden\'s Path, Jubilee Hills</item>
+        <item>Bhavan\'s Tripura Vidya Mandir</item>
+        <item>Hindi Higher Secondary School</item>
+        <item>Holy Cross School, Agartala</item>
+        <item>Jawahar Navodaya Vidyalaya, Dhalai Tripura</item>
+        <item>Khowai Government Higher Secondary School</item>
+        <item>Melaghar Class XII School</item>
+        <item>Netaji Subhash Vidyaniketan</item>
+        <item>St Paul\'s School, Agartala</item>
+        <item>Umakanta Academy</item>
+        <item>St. Peter\'s College, Wazirpura Road, Agra</item>
+        <item>Agrasen Inter College, Lukerganj, Allahabad</item>
+        <item>Annie Besant School Allahabad</item>
+        <item>Bethany Convent School, Allahabad</item>
+        <item>Boys\' High School  College, Allahabad</item>
+        <item>Girls\' High School and College, Allahabad</item>
+        <item>Laurels International School, Allahabad</item>
+        <item>St. Joseph\'s College, Allahabad</item>
+        <item>Shiv Ganga Vidya Mandir, Phaphamau, Allahabad</item>
+        <item>Rapid Global School</item>
+        <item>Delhi Public School Ghaziabad</item>
+        <item>Krist Raja High School</item>
+        <item>Rahat Public Junior High School</item>
+        <item>Khaitan Public School</item>
+        <item>Air Force School Kanpur</item>
+        <item>B N S D Shiksha Niketan</item>
+        <item>Delhi Public School, Azaad Nagar</item>
+        <item>Delhi Public School, Kalyanpur,Kanpur</item>
+        <item>Delhi Public School, Kidwai Nagar</item>
+        <item>Delhi Public School, Servodaya Nagar</item>
+        <item>DPS Barra</item>
+        <item>Huddard High School, Kanpur</item>
+        <item>Jawahar Navodaya Vidyalaya Kanpur</item>
+        <item>Jugal Devi Saraswati Vidya Mandir, Kanpur</item>
+        <item>Kendriya Vidyalaya IIT Kanpur</item>
+        <item>Mercy Memorial School</item>
+        <item>Methodist High School,Kanpur</item>
+        <item>Pt. Deen Dayal Upadhyaya Sanatan Dharma Vidyalaya</item>
+        <item>Puranchandra Vidyaniketan</item>
+        <item>St Aloysius\' High School, Kanpur</item>
+        <item>St. Joseph\'s Senior Secondary School, Kanpur</item>
+        <item>Seth Anand Ram Jaipuria School, Kanpur</item>
+        <item>RMLU School</item>
+        <item>Government Inter College Faizabad</item>
+        <item>Mahatma Jagjeevan Sahab Mahavidyalaya</item>
+        <item>Sri Ram Chandra Singh Mahavidyalaya</item>
+        <item>Saket College</item>
+        <item>Amity International School</item>
+        <item>Cathedral School of Lucknow</item>
+        <item>Central Academy Senior Secondary School</item>
+        <item>Central Modern School</item>
+        <item>Children\'s Academy, Mall Avenue</item>
+        <item>City Montessori School</item>
+        <item>Colvin Taluqdars\' College</item>
+        <item>C.P.L. Public Inter College, Nagram, Gosainganj, Lucknow</item>
+        <item>La Martiniere College</item>
+        <item>Loreto Convent</item>
+        <item>Lucknow Public School, multiple locations</item>
+        <item>Modern School</item>
+        <item>Mount Carmel School</item>
+        <item>Rani Laxmi Bai Memorial Senior Secondary School</item>
+        <item>St Fidelis College</item>
+        <item>St. Francis\' College</item>
+        <item>St. Paul\'s College</item>
+        <item>Study Hall</item>
+        <item>Vibgyor High International School</item>
+        <item>Vidya Bharati Akhil Bharatiya Shiksha Sansthan</item>
+        <item>City Vocational Public School</item>
+        <item>St. John\'s Sr. Sec. School, Meerut</item>
+        <item>St. Mary\'s Academy, Meerut Cantt.</item>
+        <item>Vardhman Academy</item>
+        <item>Amity International, Noida</item>
+        <item>Apeejay School, Noida</item>
+        <item>Army Public School Noida</item>
+        <item>Asian Academy of Film  Television</item>
+        <item>Billabong High International School Noida</item>
+        <item>Cambridge School Noida</item>
+        <item>Delhi Public School</item>
+        <item>Government Inter College Noida</item>
+        <item>Khaitan Public School</item>
+        <item>Maharishi Vidya Mandir</item>
+        <item>Ramagya School</item>
+        <item>Ryan International Noida</item>
+        <item>Somerville School, Greater Noida</item>
+        <item>Vishwa Bharati Public School</item>
+        <item>Anand Bhawan School, Barabanki</item>
+        <item>Assisi Convent School</item>
+        <item>Central Hindu School, Varanasi</item>
+        <item>Deep Memorial Public School, Ghaziabad, Etah</item>
+        <item>DLF Public School, Sahibabad</item>
+        <item>Doon International School, Palia Kalan</item>
+        <item>Gandhi Nagar Public School Moradabad</item>
+        <item>Hartmann College, Bareilly</item>
+        <item>Holy Cross School, Ballia</item>
+        <item>Infant Jesus School, Saharanpur</item>
+        <item>Kendriya Vidyalaya, Dahi Chowki Unnao</item>
+        <item>Saint Anthony\'s Inter College</item>
+        <item>St. John\'s School, Ghazipur</item>
+        <item>St. John\'s School, Varanasi</item>
+        <item>St Joseph\'s School, Rihand</item>
+        <item>St. Joseph\'s Senior Secondary School, NTPC, Dibiyapur</item>
+        <item>St. Peter\'s College, Agra</item>
+        <item>Talimuddin Inter College, Mau</item>
+        <item>Aryaman Vikram Birla Institute of Learning, Haldwani</item>
+        <item>The Aryan School, Dehradun</item>
+        <item>Ashok Hall Girls\' Residential School, Ranikhet</item>
+        <item>Bhartiyam International School, Rudrapur</item>
+        <item>Birla Vidya Mandir, Nainital</item>
+        <item>Brightlands School, Dehradun</item>
+        <item>Campus School, Pantnagar</item>
+        <item>Confluence World School, Rudrapur</item>
+        <item>Convent of Jesus and Mary, Waverley, Mussoorie</item>
+        <item>Delhi Public School Ghaziabad</item>
+        <item>Delhi Public School, Haldwani</item>
+        <item>G D Birla Memorial School, Ranikhet</item>
+        <item>Manava Bharati India International School, two locations</item>
+        <item>Maria Assumpta Convent School</item>
+        <item>Monad Public School, Gadarpur</item>
+        <item>Montfort Senior Secondary School, Roorkee</item>
+        <item>Olympus High School, Dehradun</item>
+        <item>R.A.N. Public School, Rudrapur</item>
+        <item>The Royal College, Dehradun, Dehradun</item>
+        <item>St. George\'s College, Mussoorie</item>
+        <item>St. Joseph\'s Academy (Ranked 1st), Dehradun</item>
+        <item>St. Joseph\'s College, Nainital</item>
+        <item>St. Mary\'s Convent High School, Nainital</item>
+        <item>Tula\'s International School, Dehradun</item>
+        <item>Unison World School, Dehradun</item>
+        <item>Woodstock School, Mussoorie</item>
+        <item>Wynberg Allen School, Mussoorie</item>
+        <item>Asansol Arunoday High School</item>
+        <item>Domohani Kelejora High School</item>
+        <item>Loreto Convent, Asansol</item>
+        <item>Manimala Girls High School</item>
+        <item>St. Patrick\'s Higher Secondary School</item>
+        <item>St. Vincent\'s High and Technical School</item>
+        <item>Dr. Graham\'s Homes, Kalimpong</item>
+        <item>Gandhi Ashram School</item>
+        <item>Goethals Memorial School, Kurseong</item>
+        <item>Loreto Convent</item>
+        <item>Mount Carmel School, Darjeeling</item>
+        <item>Mount Hermon School</item>
+        <item>Rockvale Academy</item>
+        <item>St. Augustine\'s School</item>
+        <item>St. George\'s Higher Secondary School</item>
+        <item>St. Joseph\'s School, Darjeeling</item>
+        <item>St. Paul\'s School, Darjeeling</item>
+        <item>St. Roberts School, Darjeeling</item>
+        <item>Aditya Academy (Senior Secondary)</item>
+        <item>Andal Mahabir High School</item>
+        <item>Andhra Association School</item>
+        <item>Apeejay School Kolkata</item>
+        <item>Arambagh Girls High School</item>
+        <item>Auxilium Convent School</item>
+        <item>Bahadurpur High School</item>
+        <item>Ballygunge Government High School</item>
+        <item>Balutungi High School</item>
+        <item>Bamanhat High School</item>
+        <item>Bandel Vidyamandir High School</item>
+        <item>Bankura Zilla School</item>
+        <item>Bansberia Ganges High School</item>
+        <item>Baranagore Ramakrishna Mission Ashrama High School</item>
+        <item>Barasat Peary Charan Sarkar Government High School</item>
+        <item>Barrackpore Government High School</item>
+        <item>Baruipur High School</item>
+        <item>Bhogpur K. M. High School</item>
+        <item>Bidhannagar Municipal School</item>
+        <item>Birla High School</item>
+        <item>Bongaon High School</item>
+        <item>Burdwan C.M.S High School</item>
+        <item>Burdwan Municipal Girls\' High School</item>
+        <item>Burdwan Municipal High School</item>
+        <item>Calcutta Boys\' School</item>
+        <item>Calcutta Girls High School</item>
+        <item>Calcutta International School</item>
+        <item>Calcutta Public School</item>
+        <item>Carmel School, Kolkata</item>
+        <item>Chakdwipa High School</item>
+        <item>Chatra Nandalal Institution</item>
+        <item>Chittaranjan High School</item>
+        <item>Dayanand Anglo-Vedic Public School</item>
+        <item>Domohani Kelejora High School</item>
+        <item>Don Bosco School, Liluah</item>
+        <item>Don Bosco School, Bandel</item>
+        <item>Don Bosco School, Park Circus</item>
+        <item>Dreamland School, Makhla</item>
+        <item>The Frank Anthony Public School, Kolkata</item>
+        <item>Gangarampur Girls\' High School</item>
+        <item>Gangarampur High School</item>
+        <item>Garden High School</item>
+        <item>Grace Ling Liang English School</item>
+        <item>Guru Teg Bahadur Public School Durgapur</item>
+        <item>Hare School</item>
+        <item>The Heritage School, Kolkata</item>
+        <item>Hindu School</item>
+        <item>Hindu Vidyapith</item>
+        <item>Howrah Zilla School</item>
+        <item>Howrah Ramkrishnapur High School</item>
+        <item>Army Public School, Kolkata</item>
+        <item>Isabella School, Siliguri</item>
+        <item>Jadavpur Vidyapith</item>
+        <item>Jagacha High School</item>
+        <item>Jagadbandhu Institution</item>
+        <item>Jalpaiguri Zilla School</item>
+        <item>Jenkins School</item>
+        <item>Jhantipahari High School</item>
+        <item>Jhargram Kumud Kumari Institution</item>
+        <item>Jodhpur Park Boys School</item>
+        <item>Julien Day School</item>
+        <item>Kaigram High School</item>
+        <item>Kalikrishna Girls\' High School</item>
+        <item>Kanailal Vidyamandir</item>
+        <item>Kanduah Mahakali High School</item>
+        <item>Katwa Kashiram Das Institution</item>
+        <item>Kendriya Vidyalaya No. 1, Ishapore</item>
+        <item>Krishnagar Collegiate School</item>
+        <item>Krishnath College School, Berhampore</item>
+        <item>La Martiniere Calcutta</item>
+        <item>Laban Hrad Vidyapith</item>
+        <item>Lakshmipat Singhania Academy</item>
+        <item>Loreto Schools, Kolkata</item>
+        <item>Mahadevi Birla Girls Higher Secondary School</item>
+        <item>Malda Zilla School</item>
+        <item>Md Jan Higher Secondary School</item>
+        <item>Midnapore Collegiate School</item>
+        <item>Modern High School for Girls</item>
+        <item>Nabapally Boys\' High School</item>
+        <item>Nandapur Milani Balika Vidyaniketan, Purba Medinipur</item>
+        <item>National English School, Kolkata</item>
+        <item>National High School</item>
+        <item>Nava Nalanda High School</item>
+        <item>Oaktree International School, Kolkata</item>
+        <item>Okersa High School</item>
+        <item>Our Lady Queen of the Missions School</item>
+        <item>Patha Bhavan, Kolkata</item>
+        <item>Patha Bhavana, Santiniketan</item>
+        <item>Patulia High School</item>
+        <item>Raghunathganj High School</item>
+        <item>Ramakrishna Mission Multipurpose School, Kamarpukur</item>
+        <item>Ramakrishna Mission Vidyalaya, Narendrapur</item>
+        <item>Ramakrishna Mission Vidyapith, Purulia</item>
+        <item>St. Francis Xavier School, Kolkata</item>
+        <item>St. James\' School, Kolkata</item>
+        <item>St. John\'s Diocesan Girls\' Higher Secondary School</item>
+        <item>St. Lawrence High School</item>
+        <item>St. Michael\'s School B zone unit</item>
+        <item>St. Thomas\' Church School, Howrah</item>
+        <item>St Thomas School, Kolkata</item>
+        <item>St. Xavier\'s Collegiate School</item>
+        <item>St. Xavier\'s School, Burdwan</item>
+        <item>St. Xavier\'s School, Durgapur</item>
+        <item>Salt Lake School</item>
+        <item>Santragachi Kedarnath Institution</item>
+        <item>Scottish Church Collegiate School</item>
+        <item>Shayama Prasad Shikshayatan High School</item>
+        <item>Sibpur S.S.P.S. Vidyalaya</item>
+        <item>Siliguri Boys High School</item>
+        <item>South Point</item>
+        <item>Vivekananda Institution</item>
+        <item>Atomic Energy Central School, established in 1969</item>
+        <item>Bal Bharati Public School, established in 1944</item>
+        <item>Bharatiya Vidya Bhavan, established in 1938</item>
+        <item>Chinmaya Vidyalaya, established in 1965</item>
+        <item>DAV Public School, established in 1886</item>
+        <item>Delhi Public School, established in 1949</item>
+        <item>Indian Army Public Schools, established in 1983</item>
+        <item>Jawahar Navodaya Vidyalaya, established in 1986</item>
+        <item>Kendriya Vidyalaya, established in 1963</item>
+        <item>Padma Seshadri Bala Bhavan, established in 1958</item>
+        <item>Railway Schools, established in 1873</item>
+        <item>Ramakrishna Mission Schools, established in 1922</item>
+        <item>Ryan International Schools, established in 1976</item>
+        <item>Sainik School, established in 1960</item>
+        <item>Saraswati Shishu Mandir, established in 1952</item>
+        <item>Seth M.R. Jaipuria Schools, established in 1992</item>
+        <item>Vivekananda Vidyalaya, established in 1972</item>
+        <item>Vivekananda Kendra Vidyalaya, established in 1977</item>
+        <item>Waldorf Schools (India), established in 2002</item>
+    </string-array>
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-2009435266295761/7170271870</string>
+</resources>

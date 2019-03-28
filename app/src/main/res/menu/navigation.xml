@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/home_icon_silhouette"
+        android:title="Store" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/pdf_format"
+        android:title="PDF" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/contracttt"
+        android:title="Form" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/curriculum_vitae"
+        android:title="CV" />
+
+</menu>

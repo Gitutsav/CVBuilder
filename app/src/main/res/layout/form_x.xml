@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="4dp"
+
+    android:layout_gravity="center_horizontal"
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:background="@drawable/testborderheader"
+        android:layout_height="20dp"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/testborder"
+
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Intermediate Status:"
+                android:layout_marginTop="1dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_weight="50"
+                android:gravity="center_vertical"
+                android:layout_height="50dp">
+                <RadioGroup
+                    android:id="@+id/radio_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_above="@+id/view_below" >
+
+                    <RadioButton
+                        android:id="@+id/radio1"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+
+                        android:text="Pursuing" />
+
+                    <RadioButton
+                        android:id="@+id/radio2"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:text="Completed" />
+
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="70dp"
+                    android:layout_weight="50"
+                    android:gravity="center_vertical">
+
+                    <LinearLayout
+                        android:id="@+id/radio_group1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/view_below"
+                        android:layout_marginBottom="2dp"
+
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="1dp"
+                                android:gravity="bottom"
+                                android:text="Year of Completion:"
+                                android:textColor="#000000" />
+
+                            <Spinner
+                                android:id="@+id/radio5x"
+                                android:layout_marginTop="2dp"
+                                android:layout_width="match_parent"
+                                android:background="@android:drawable/btn_dropdown"
+                                android:layout_height="40dp"
+
+                                />
+                        </LinearLayout>
+
+
+
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="School:"
+                android:layout_marginTop="2dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+                />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <AutoCompleteTextView
+                    android:id="@+id/school"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="School you are studied in"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" >
+
+                </AutoCompleteTextView>
+            </android.support.design.widget.TextInputLayout>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Board:"
+                android:layout_marginTop="1dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+
+                />
+
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="match_parent"
+                android:background="@android:drawable/btn_dropdown"
+                android:layout_marginTop="2dp"
+                android:gravity="center_vertical"
+                android:animateLayoutChanges="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="40dp"
+                />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Performance Scale:"
+                android:layout_marginTop="2dp"
+                android:gravity="bottom"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000000"
+
+                />
+
+
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fadingEdge="vertical"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColorHint="#aabbcc"
+                android:textDirection="firstStrong"
+                android:theme="@style/Base.TextAppearance.AppCompat.Medium"
+                android:touchscreenBlocksFocus="true">
+
+                <EditText
+                    android:id="@+id/cgpa"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:inputType="numberDecimal"
+                    android:maxLength="1000"
+                    android:maxLines="10"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/textviewmybordertabbed"
+                    android:hint="CGPA (Example: 9.2)"
+                    android:textColor="#000000"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Medium" />
+            </android.support.design.widget.TextInputLayout>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

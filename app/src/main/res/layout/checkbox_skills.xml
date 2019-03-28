@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/testborder"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <CheckBox
+            android:id="@+id/java"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Java" />
+
+        <CheckBox
+            android:id="@+id/c"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="C" />
+
+        <CheckBox
+            android:id="@+id/cpp"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="C++" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <CheckBox
+            android:id="@+id/html"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="HTML" />
+
+        <CheckBox
+            android:id="@+id/css"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CSS" />
+
+        <CheckBox
+            android:id="@+id/javascript"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="JavaScript" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <CheckBox
+            android:id="@+id/jquery"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="JQuery" />
+
+        <CheckBox
+            android:id="@+id/python"
+            android:layout_width="0dp"
+            android:textSize="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Python" />
+
+        <CheckBox
+            android:id="@+id/android"
+            android:textSize="10dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Android" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <CheckBox
+            android:id="@+id/unity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="Unity" />
+
+        <CheckBox
+            android:id="@+id/coral"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="Coral" />
+
+        <CheckBox
+            android:id="@+id/r"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="R" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <CheckBox
+            android:id="@+id/ml"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="ML" />
+
+        <CheckBox
+            android:id="@+id/ai"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="AI" />
+
+        <CheckBox
+            android:id="@+id/data"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="10dp"
+            android:text="DataScience" />
+
+
+    </LinearLayout>
+</LinearLayout>
